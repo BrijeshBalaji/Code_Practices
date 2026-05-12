@@ -1,0 +1,26 @@
+import java.util.*;
+
+class partisort{
+    static void partialsort(){
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        int arr[]=new int[n];
+        for(int i=0;i<n;i++){
+            arr[i]=sc.nextInt();            
+        }
+        int k=sc.nextInt();
+        Arrays.sort(arr,0,k);
+        Arrays.sort(arr,k,n);
+        for(int i=k,j=n-1;i<j;i++,j--){
+            int t=arr[i];
+            arr[i]=arr[j];
+            arr[j]=t;
+        }
+        for(int x:arr){
+            System.out.print(x+" ");
+        }
+    }
+    public static void main(String args[]){
+        partialsort();
+    }
+}
