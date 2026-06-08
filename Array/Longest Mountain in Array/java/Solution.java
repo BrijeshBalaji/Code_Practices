@@ -12,7 +12,7 @@ class Solution {
         while(left>0 && arr[left]>arr[left-1]){
             left--;
         }
-        while(right>0 && arr[right]>arr[right+1]){
+        while(right<n-1 && arr[right]>arr[right+1]){
             right++;
         }
         ans=Math.max(ans,right-left+1);
