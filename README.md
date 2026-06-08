@@ -18,6 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
+| 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 
 </details>
 
