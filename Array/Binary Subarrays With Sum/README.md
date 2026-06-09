@@ -5,39 +5,56 @@
 
 ## Problem Statement
 
-<p>Given a binary array <code>nums</code> and an integer <code>goal</code>, return <em>the number of non-empty <strong>subarrays</strong> with a sum</em> <code>goal</code>.</p>
+Given a binary array nums and an integer goal, return the number of non-empty subarrays with a sum goal.
 
-<p>A <strong>subarray</strong> is a contiguous part of the array.</p>
+A subarray is a contiguous part of the array.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> nums = [1,0,1,0,1], goal = 2
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> The 4 subarrays are bolded and underlined below:
-[<u><strong>1,0,1</strong></u>,0,1]
-[<u><strong>1,0,1,0</strong></u>,1]
-[1,<u><strong>0,1,0,1</strong></u>]
-[1,0,<u><strong>1,0,1</strong></u>]
-</pre>
+Input: nums = [1,0,1,0,1], goal = 2
+Output: 4
+Explanation: The 4 subarrays are bolded and underlined below:
+[1,0,1,0,1]
+[1,0,1,0,1]
+[1,0,1,0,1]
+[1,0,1,0,1]
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> nums = [0,0,0,0,0], goal = 0
-<strong>Output:</strong> 15
-</pre>
+Example 2:
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Input: nums = [0,0,0,0,0], goal = 0
+Output: 15
 
-<ul>
-	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
-	<li><code>nums[i]</code> is either <code>0</code> or <code>1</code>.</li>
-	<li><code>0 &lt;= goal &lt;= nums.length</code></li>
-</ul>
 
+ 
+Constraints:
+
+
+	1 <= nums.length <= 3 * 104
+	nums[i] is either 0 or 1.
+	0 <= goal <= nums.length
+
+## Examples
+
+```
+Input: nums = [1,0,1,0,1], goal = 2
+Output: 4
+Explanation: The 4 subarrays are bolded and underlined below:
+[1,0,1,0,1]
+[1,0,1,0,1]
+[1,0,1,0,1]
+[1,0,1,0,1]
+
+Input: nums = [0,0,0,0,0], goal = 0
+Output: 15
+```
+
+## Constraints
+
+- 1 <= nums.length <= 3 * 104
+- nums[i] is either 0 or 1.
+- 0 <= goal <= nums.length
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
