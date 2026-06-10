@@ -1,5 +1,3 @@
-                while(ss.length()<maxWidth){
-                    ss.append(" ");
                 }
                 list.add(ss.toString());
                 return;
@@ -23,3 +21,8 @@
             list.add(sb.toString());
         }
 }
+                    ss.append(" ");
+                }
+                while(ss.length()<maxWidth){
+                    ss.append(words[i]);
+                    if(i!=end) ss.append(" ");
