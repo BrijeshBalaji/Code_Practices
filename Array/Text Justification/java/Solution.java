@@ -1,16 +1,16 @@
 class Solution {
     public List<String> fullJustify(String[] words, int maxWidth) {
         List <String> list =new ArrayList<>();
-        int tc=0;
-        int wc=0;
-        int start =0;
+        int tc=0; // total count
+        int wc=0; //word count
+        int start =0; 
         for(int i=0;i<words.length;i++){
             tc+=words[i].length();
-            wc++;
+            wc++; 
             if(tc+wc-1>maxWidth){
-                i--;
+                i--; // to reject excess word 
                 text(words,maxWidth,list,start,i,false);
-                start =i+1;
+                start = i+1;
                 tc=0;
                 wc=0;
             }
@@ -19,7 +19,7 @@ class Solution {
             return list;
         }
         public static void text(String words[], int maxWidth , List<String> list , int start , int end,boolean lastLine){
-            if(lastLine||start==end){
+            if(lastLine||start==end){ 
                 StringBuilder ss=new StringBuilder();
                 for(int i=start;i<=end;i++){
                     ss.append(words[i]);

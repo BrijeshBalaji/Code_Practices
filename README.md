@@ -17,7 +17,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
-| 68 | [Text Justification](./Array/Text%20Justification/) | Easy |
+| 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
