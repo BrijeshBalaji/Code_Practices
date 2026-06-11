@@ -48,6 +48,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 
 </details>
