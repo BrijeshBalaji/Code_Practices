@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
+| 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 658 | [Find K Closest Elements](./Array/Find%20K%20Closest%20Elements/) | Easy |
 | 769 | [Max Chunks To Make Sorted](./Array/Max%20Chunks%20To%20Make%20Sorted/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
