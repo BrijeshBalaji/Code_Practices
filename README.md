@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 68 | [Text Justification](./Array/Text%20Justification/) | Easy |
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
