@@ -34,6 +34,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### General
+<details>
+<summary>Click to expand General problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| — | [Min Stack](./General/Min%20Stack/) | Medium |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
@@ -42,17 +53,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
-
-</details>
-
-
-### Stack
-<details>
-<summary>Click to expand Stack problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 155 | [Min Stack](./Stack/Min%20Stack/) | Medium |
 
 </details>
 
