@@ -46,6 +46,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 155 | [Min Stack](./Stack/Min%20Stack/) | Medium |
+
+</details>
+
+
 ### String
 <details>
 <summary>Click to expand String problems</summary>
