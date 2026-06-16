@@ -89,6 +89,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
+| 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 
 </details>
 
