@@ -70,6 +70,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Linked List
+<details>
+<summary>Click to expand Linked List problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
+
+</details>
+
+
 ### Stack
 <details>
 <summary>Click to expand Stack problems</summary>
