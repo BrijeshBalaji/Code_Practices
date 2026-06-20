@@ -121,6 +121,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 
