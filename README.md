@@ -122,6 +122,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 
 </details>
 
