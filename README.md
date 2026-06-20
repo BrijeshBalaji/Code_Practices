@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
+| 46 | [Permutations](./Array/Permutations/) | Medium |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
@@ -110,6 +111,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
+
+</details>
+
+
+### Two Pointers
+<details>
+<summary>Click to expand Two Pointers problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 
 </details>
 
