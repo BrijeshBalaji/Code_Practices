@@ -25,6 +25,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 68 | [Text Justification](./Array/Text%20Justification/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
+| 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
