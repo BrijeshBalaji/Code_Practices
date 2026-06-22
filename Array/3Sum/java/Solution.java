@@ -21,10 +21,10 @@ class Solution {
                     r--;
                 }
                 else if(sum > 0){
-                    l++;
+                    r--;
                 }
                 else{
-                    r--;
+                    l++;
                 }
             }
         }
