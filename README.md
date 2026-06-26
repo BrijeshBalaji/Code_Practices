@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mr_sanjai_offl?theme=dark&font=Poppins&ext=heatmap" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/Brijesh_Balaji?theme=dark&font=Poppins&ext=heatmap" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -74,6 +74,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Easy |
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
