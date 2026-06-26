@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Brijesh_Balaji?theme=dark&font=Poppins&ext=heatmap" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/mr_sanjai_offl?theme=dark&font=Poppins&ext=heatmap" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -28,6 +28,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
@@ -35,6 +36,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 658 | [Find K Closest Elements](./Array/Find%20K%20Closest%20Elements/) | Easy |
 | 769 | [Max Chunks To Make Sorted](./Array/Max%20Chunks%20To%20Make%20Sorted/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
+| 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
@@ -75,6 +77,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
+| 187 | [Repeated DNA Sequences](./Hash%20Table/Repeated%20DNA%20Sequences/) | Medium |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 
 </details>
@@ -90,6 +93,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
 | 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
+
+</details>
+
+
+### Math
+<details>
+<summary>Click to expand Math problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Easy |
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
 
 </details>
 
