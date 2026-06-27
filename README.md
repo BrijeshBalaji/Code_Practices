@@ -25,6 +25,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
