@@ -56,6 +56,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
 | 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
+| 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 
 </details>
 
