@@ -54,6 +54,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+| 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
 
 </details>
 
