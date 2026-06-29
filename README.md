@@ -47,6 +47,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Database
+<details>
+<summary>Click to expand Database problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+
+</details>
+
+
 ### Design
 <details>
 <summary>Click to expand Design problems</summary>
