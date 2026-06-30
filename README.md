@@ -53,6 +53,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
 | 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
