@@ -5,9 +5,8 @@
 
 ## Problem Statement
 
-<p>Table: <code>Employee</code></p>
+Table: Employee
 
-<pre>
 +-------------+------+
 | Column Name | Type |
 +-------------+------+
@@ -16,19 +15,18 @@
 +-------------+------+
 id is the primary key (column with unique values) for this table.
 Each row of this table contains information about the salary of an employee.
-</pre>
 
-<p>&nbsp;</p>
 
-<p>Write a solution to find&nbsp;the second highest <strong>distinct</strong> salary from the <code>Employee</code> table. If there is no second highest salary,&nbsp;return&nbsp;<code>null (return&nbsp;None in Pandas)</code>.</p>
+ 
 
-<p>The result format is in the following example.</p>
+Write a solution to find the second highest distinct salary from the Employee table. If there is no second highest salary, return null (return None in Pandas).
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+The result format is in the following example.
 
-<pre>
-<strong>Input:</strong> 
+ 
+Example 1:
+
+Input: 
 Employee table:
 +----+--------+
 | id | salary |
@@ -37,32 +35,63 @@ Employee table:
 | 2  | 200    |
 | 3  | 300    |
 +----+--------+
-<strong>Output:</strong> 
+Output: 
 +---------------------+
 | SecondHighestSalary |
 +---------------------+
 | 200                 |
 +---------------------+
-</pre>
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> 
+Example 2:
+
+Input: 
 Employee table:
 +----+--------+
 | id | salary |
 +----+--------+
 | 1  | 100    |
 +----+--------+
-<strong>Output:</strong> 
+Output: 
 +---------------------+
 | SecondHighestSalary |
 +---------------------+
 | null                |
 +---------------------+
-</pre>
 
+## Examples
+
+```
+Input: 
+Employee table:
++----+--------+
+| id | salary |
++----+--------+
+| 1  | 100    |
+| 2  | 200    |
+| 3  | 300    |
++----+--------+
+Output: 
++---------------------+
+| SecondHighestSalary |
++---------------------+
+| 200                 |
++---------------------+
+
+Input: 
+Employee table:
++----+--------+
+| id | salary |
++----+--------+
+| 1  | 100    |
++----+--------+
+Output: 
++---------------------+
+| SecondHighestSalary |
++---------------------+
+| null                |
++---------------------+
+```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
