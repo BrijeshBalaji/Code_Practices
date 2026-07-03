@@ -10,28 +10,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### Array
-<details>
-<summary>Click to expand Array problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
-
-</details>
-
-
 ### Database
 <details>
 <summary>Click to expand Database problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 175 | [Combine Two Tables](./Database/Combine%20Two%20Tables/) | Easy |
-| 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
-| 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
-| 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
-| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
+| 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
 
 </details>
 
