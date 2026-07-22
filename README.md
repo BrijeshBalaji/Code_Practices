@@ -10,13 +10,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### Database
+### Array
 <details>
-<summary>Click to expand Database problems</summary>
+<summary>Click to expand Array problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
+| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 
 </details>
 
