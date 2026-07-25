@@ -10,16 +10,18 @@ class Solution {
         }
         int maxlength = 0;
         for(int num:nums){
-            if(!set.contains(num-1)){
+            if(num != Integer.MIN_VALUE && set.contains(num-1)){
+                continue;
+            }
                 int current = num;
                 int length = 1;
-                while(set.contains(current+1)){
+                while(current != Integer.MAX_VALUE && set.contains(current+1)){
                     current++;
                     length++;
                 }
                 maxlength = Math.max(maxlength,length);
             }
+            return maxlength;
         }
-        return maxlength;
   }
-}
+
