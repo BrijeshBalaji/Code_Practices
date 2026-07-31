@@ -16,10 +16,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
-| 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
-| 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
-| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 
 </details>
 
