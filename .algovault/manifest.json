@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:02:51.483Z",
+  "lastUpdated": "2026-08-01T14:03:04.606Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2351,6 +2351,296 @@
               "runtime": "3 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
+            }
+          }
+        },
+        "minimum-time-to-make-rope-colorful": {
+          "questionId": "1578",
+          "title": "Minimum Time to Make Rope Colorful",
+          "titleSlug": "minimum-time-to-make-rope-colorful",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984605,
+              "runtime": "8 ms",
+              "memory": "90.4 MB",
+              "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
+            }
+          }
+        },
+        "smallest-number-with-all-set-bits": {
+          "questionId": "3370",
+          "title": "Smallest Number With All Set Bits",
+          "titleSlug": "smallest-number-with-all-set-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
+            }
+          }
+        },
+        "replace-words": {
+          "questionId": "648",
+          "title": "Replace Words",
+          "titleSlug": "replace-words",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "704 ms",
+              "memory": "60 MB",
+              "githubPath": "LeetCode/Array/Replace Words/"
+            }
+          }
+        },
+        "game-of-life": {
+          "questionId": "289",
+          "title": "Game of Life",
+          "titleSlug": "game-of-life",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Game of Life/"
+            }
+          }
+        },
+        "stone-game": {
+          "questionId": "877",
+          "title": "Stone Game",
+          "titleSlug": "stone-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Stone Game/"
+            }
+          }
+        },
+        "excel-sheet-column-title": {
+          "questionId": "168",
+          "title": "Excel Sheet Column Title",
+          "titleSlug": "excel-sheet-column-title",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "3 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Title/"
+            }
+          }
+        },
+        "make-array-elements-equal-to-zero": {
+          "questionId": "3354",
+          "title": "Make Array Elements Equal to Zero",
+          "titleSlug": "make-array-elements-equal-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "3 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Array/Make Array Elements Equal to Zero/"
+            }
+          }
+        },
+        "number-of-laser-beams-in-a-bank": {
+          "questionId": "2125",
+          "title": "Number of Laser Beams in a Bank",
+          "titleSlug": "number-of-laser-beams-in-a-bank",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "String",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "12 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Number of Laser Beams in a Bank/"
+            }
+          }
+        },
+        "simple-bank-system": {
+          "questionId": "2043",
+          "title": "Simple Bank System",
+          "titleSlug": "simple-bank-system",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Design",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "96 ms",
+              "memory": "101.5 MB",
+              "githubPath": "LeetCode/Array/Simple Bank System/"
+            }
+          }
+        },
+        "calculate-money-in-leetcode-bank": {
+          "questionId": "1716",
+          "title": "Calculate Money in Leetcode Bank",
+          "titleSlug": "calculate-money-in-leetcode-bank",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "1 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Calculate Money in Leetcode Bank/"
+            }
+          }
+        },
+        "next-greater-numerically-balanced-number": {
+          "questionId": "2048",
+          "title": "Next Greater Numerically Balanced Number",
+          "titleSlug": "next-greater-numerically-balanced-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Backtracking",
+            "Counting",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "162 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Hash Table/Next Greater Numerically Balanced Number/"
+            }
+          }
+        },
+        "house-robber": {
+          "questionId": "198",
+          "title": "House Robber",
+          "titleSlug": "house-robber",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Array/House Robber/"
+            }
+          }
+        },
+        "check-if-digits-are-equal-in-string-after-operations-i": {
+          "questionId": "3461",
+          "title": "Check If Digits Are Equal in String After Operations I",
+          "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation",
+            "Combinatorics",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "2 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Math/Check If Digits Are Equal in String After Operations I/"
+            }
+          }
+        },
+        "maximum-frequency-of-an-element-after-performing-operations-ii": {
+          "questionId": "3347",
+          "title": "Maximum Frequency of an Element After Performing Operations II",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "30 ms",
+              "memory": "56.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations II/"
+            }
+          }
+        },
+        "arranging-coins": {
+          "questionId": "441",
+          "title": "Arranging Coins",
+          "titleSlug": "arranging-coins",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592984606,
+              "runtime": "0 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Math/Arranging Coins/"
             }
           }
         }
