@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:01:33.046Z",
+  "lastUpdated": "2026-08-01T14:01:48.009Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -869,6 +869,322 @@
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "remove-nth-node-from-end-of-list": {
+          "questionId": "19",
+          "title": "Remove Nth Node From End of List",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908008,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908008,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "intersection-of-two-linked-lists": {
+          "questionId": "160",
+          "title": "Intersection of Two Linked Lists",
+          "titleSlug": "intersection-of-two-linked-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908008,
+              "runtime": "1 ms",
+              "memory": "52.7 MB",
+              "githubPath": "LeetCode/Hash Table/Intersection of Two Linked Lists/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list": {
+          "questionId": "83",
+          "title": "Remove Duplicates from Sorted List",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908008,
+              "runtime": "0 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
+            }
+          }
+        },
+        "delete-node-in-a-linked-list": {
+          "questionId": "237",
+          "title": "Delete Node in a Linked List",
+          "titleSlug": "delete-node-in-a-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908008,
+              "runtime": "0 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
+            }
+          }
+        },
+        "linked-list-cycle-ii": {
+          "questionId": "142",
+          "title": "Linked List Cycle II",
+          "titleSlug": "linked-list-cycle-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908008,
+              "runtime": "0 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "0 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+            }
+          }
+        },
+        "reverse-linked-list": {
+          "questionId": "206",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "dota2-senate": {
+          "questionId": "649",
+          "title": "Dota2 Senate",
+          "titleSlug": "dota2-senate",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Greedy",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "12 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/String/Dota2 Senate/"
+            }
+          }
+        },
+        "number-of-recent-calls": {
+          "questionId": "933",
+          "title": "Number of Recent Calls",
+          "titleSlug": "number-of-recent-calls",
+          "difficulty": "Easy",
+          "tags": [
+            "Design",
+            "Queue",
+            "Data Stream"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "21 ms",
+              "memory": "59.4 MB",
+              "githubPath": "LeetCode/Design/Number of Recent Calls/"
+            }
+          }
+        },
+        "implement-queue-using-stacks": {
+          "questionId": "232",
+          "title": "Implement Queue using Stacks",
+          "titleSlug": "implement-queue-using-stacks",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Design",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Stack/Implement Queue using Stacks/"
+            }
+          }
+        },
+        "same-tree": {
+          "questionId": "100",
+          "title": "Same Tree",
+          "titleSlug": "same-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Tree/Same Tree/"
+            }
+          }
+        },
+        "maximum-depth-of-binary-tree": {
+          "questionId": "104",
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "0 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
+            }
+          }
+        },
+        "next-greater-element-ii": {
+          "questionId": "503",
+          "title": "Next Greater Element II",
+          "titleSlug": "next-greater-element-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "16 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element II/"
+            }
+          }
+        },
+        "min-stack": {
+          "questionId": "155",
+          "title": "Min Stack",
+          "titleSlug": "min-stack",
+          "difficulty": "Medium",
+          "tags": [
+            "Stack",
+            "Design"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592908009,
+              "runtime": "35 ms",
+              "memory": "100 MB",
+              "githubPath": "LeetCode/Stack/Min Stack/"
             }
           }
         }
