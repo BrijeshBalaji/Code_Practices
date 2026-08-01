@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:02:02.618Z",
+  "lastUpdated": "2026-08-01T14:02:12.029Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1379,6 +1379,174 @@
               "runtime": "2 ms",
               "memory": "61.9 MB",
               "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
+            }
+          }
+        },
+        "longest-mountain-in-array": {
+          "questionId": "845",
+          "title": "Longest Mountain in Array",
+          "titleSlug": "longest-mountain-in-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592932029,
+              "runtime": "2 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Longest Mountain in Array/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592932029,
+              "runtime": "5 ms",
+              "memory": "77.5 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "candy": {
+          "questionId": "135",
+          "title": "Candy",
+          "titleSlug": "candy",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592932029,
+              "runtime": "3 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Candy/"
+            }
+          }
+        },
+        "make-the-string-great": {
+          "questionId": "1544",
+          "title": "Make The String Great",
+          "titleSlug": "make-the-string-great",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592932029,
+              "runtime": "3 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/String/Make The String Great/"
+            }
+          }
+        },
+        "removing-stars-from-a-string": {
+          "questionId": "2390",
+          "title": "Removing Stars From a String",
+          "titleSlug": "removing-stars-from-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592932029,
+              "runtime": "62 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/String/Removing Stars From a String/"
+            }
+          }
+        },
+        "simplify-path": {
+          "questionId": "71",
+          "title": "Simplify Path",
+          "titleSlug": "simplify-path",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592932029,
+              "runtime": "4 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/String/Simplify Path/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592932029,
+              "runtime": "24 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592932029,
+              "runtime": "2 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "maximize-sum-of-at-most-k-distinct-elements": {
+          "questionId": "3684",
+          "title": "Maximize Sum of At Most K Distinct Elements",
+          "titleSlug": "maximize-sum-of-at-most-k-distinct-elements",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592932029,
+              "runtime": "8 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Maximize Sum of At Most K Distinct Elements/"
             }
           }
         }
