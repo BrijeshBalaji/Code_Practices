@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:03:04.606Z",
+  "lastUpdated": "2026-08-01T14:03:19.503Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2641,6 +2641,359 @@
               "runtime": "0 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Math/Arranging Coins/"
+            }
+          }
+        },
+        "truncate-sentence": {
+          "questionId": "1816",
+          "title": "Truncate Sentence",
+          "titleSlug": "truncate-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999502,
+              "runtime": "1 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Array/Truncate Sentence/"
+            }
+          }
+        },
+        "find-the-duplicate-number": {
+          "questionId": "287",
+          "title": "Find the Duplicate Number",
+          "titleSlug": "find-the-duplicate-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "4 ms",
+              "memory": "58.1 MB",
+              "githubPath": "LeetCode/Array/Find the Duplicate Number/"
+            }
+          }
+        },
+        "teemo-attacking": {
+          "questionId": "495",
+          "title": "Teemo Attacking",
+          "titleSlug": "teemo-attacking",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "3 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Teemo Attacking/"
+            }
+          }
+        },
+        "percentage-of-letter-in-string": {
+          "questionId": "2278",
+          "title": "Percentage of Letter in String",
+          "titleSlug": "percentage-of-letter-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/String/Percentage of Letter in String/"
+            }
+          }
+        },
+        "consecutive-characters": {
+          "questionId": "1446",
+          "title": "Consecutive Characters",
+          "titleSlug": "consecutive-characters",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/String/Consecutive Characters/"
+            }
+          }
+        },
+        "reverse-words-in-a-string-iii": {
+          "questionId": "557",
+          "title": "Reverse Words in a String III",
+          "titleSlug": "reverse-words-in-a-string-iii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "4 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
+            }
+          }
+        },
+        "jewels-and-stones": {
+          "questionId": "771",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+            }
+          }
+        },
+        "maximum-frequency-of-an-element-after-performing-operations-i": {
+          "questionId": "3346",
+          "title": "Maximum Frequency of an Element After Performing Operations I",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "38 ms",
+              "memory": "56.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations I/"
+            }
+          }
+        },
+        "robot-return-to-origin": {
+          "questionId": "657",
+          "title": "Robot Return to Origin",
+          "titleSlug": "robot-return-to-origin",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "4 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/String/Robot Return to Origin/"
+            }
+          }
+        },
+        "count-binary-substrings": {
+          "questionId": "696",
+          "title": "Count Binary Substrings",
+          "titleSlug": "count-binary-substrings",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "10 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Count Binary Substrings/"
+            }
+          }
+        },
+        "final-value-of-variable-after-performing-operations": {
+          "questionId": "2011",
+          "title": "Final Value of Variable After Performing Operations",
+          "titleSlug": "final-value-of-variable-after-performing-operations",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Final Value of Variable After Performing Operations/"
+            }
+          }
+        },
+        "lexicographically-smallest-string-after-applying-operations": {
+          "questionId": "1625",
+          "title": "Lexicographically Smallest String After Applying Operations",
+          "titleSlug": "lexicographically-smallest-string-after-applying-operations",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "76 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/String/Lexicographically Smallest String After Applying Operations/"
+            }
+          }
+        },
+        "maximum-number-of-distinct-elements-after-operations": {
+          "questionId": "3397",
+          "title": "Maximum Number of Distinct Elements After Operations",
+          "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "10 ms",
+              "memory": "57.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Number of Distinct Elements After Operations/"
+            }
+          }
+        },
+        "maximize-the-number-of-partitions-after-operations": {
+          "questionId": "3003",
+          "title": "Maximize the Number of Partitions After Operations",
+          "titleSlug": "maximize-the-number-of-partitions-after-operations",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "2 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/String/Maximize the Number of Partitions After Operations/"
+            }
+          }
+        },
+        "smallest-missing-non-negative-integer-after-operations": {
+          "questionId": "2598",
+          "title": "Smallest Missing Non-negative Integer After Operations",
+          "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "5 ms",
+              "memory": "57.8 MB",
+              "githubPath": "LeetCode/Array/Smallest Missing Non-negative Integer After Operations/"
+            }
+          }
+        },
+        "adjacent-increasing-subarrays-detection-ii": {
+          "questionId": "3350",
+          "title": "Adjacent Increasing Subarrays Detection II",
+          "titleSlug": "adjacent-increasing-subarrays-detection-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "14 ms",
+              "memory": "88.7 MB",
+              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection II/"
+            }
+          }
+        },
+        "adjacent-increasing-subarrays-detection-i": {
+          "questionId": "3349",
+          "title": "Adjacent Increasing Subarrays Detection I",
+          "titleSlug": "adjacent-increasing-subarrays-detection-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "1 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection I/"
+            }
+          }
+        },
+        "decompress-run-length-encoded-list": {
+          "questionId": "1313",
+          "title": "Decompress Run-Length Encoded List",
+          "titleSlug": "decompress-run-length-encoded-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Decompress Run-Length Encoded List/"
+            }
+          }
+        },
+        "find-resultant-array-after-removing-anagrams": {
+          "questionId": "2273",
+          "title": "Find Resultant Array After Removing Anagrams",
+          "titleSlug": "find-resultant-array-after-removing-anagrams",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592999503,
+              "runtime": "10 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Find Resultant Array After Removing Anagrams/"
             }
           }
         }

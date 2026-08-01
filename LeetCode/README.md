@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1785592984608" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1785592999505" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -40,10 +40,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
 | 289 | [Game of Life](./Array/Game%20of%20Life/) | Medium |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 378 | [Kth Smallest Element in a Sorted Matrix](./Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/) | Medium |
 | 474 | [Ones and Zeroes](./Array/Ones%20and%20Zeroes/) | Medium |
+| 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
@@ -61,6 +63,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1262 | [Greatest Sum Divisible by Three](./Array/Greatest%20Sum%20Divisible%20by%20Three/) | Medium |
+| 1313 | [Decompress Run-Length Encoded List](./Array/Decompress%20Run-Length%20Encoded%20List/) | Easy |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](./Array/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
@@ -69,20 +72,28 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1590 | [Make Sum Divisible by P](./Array/Make%20Sum%20Divisible%20by%20P/) | Medium |
 | 1652 | [Defuse the Bomb](./Array/Defuse%20the%20Bomb/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
+| 1816 | [Truncate Sentence](./Array/Truncate%20Sentence/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
+| 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2043 | [Simple Bank System](./Array/Simple%20Bank%20System/) | Medium |
 | 2057 | [Smallest Index With Equal Value](./Array/Smallest%20Index%20With%20Equal%20Value/) | Easy |
 | 2125 | [Number of Laser Beams in a Bank](./Array/Number%20of%20Laser%20Beams%20in%20a%20Bank/) | Medium |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2154 | [Keep Multiplying Found Values by Two](./Array/Keep%20Multiplying%20Found%20Values%20by%20Two/) | Easy |
+| 2273 | [Find Resultant Array After Removing Anagrams](./Array/Find%20Resultant%20Array%20After%20Removing%20Anagrams/) | Easy |
 | 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
 | 2528 | [Maximize the Minimum Powered City](./Array/Maximize%20the%20Minimum%20Powered%20City/) | Hard |
+| 2598 | [Smallest Missing Non-negative Integer After Operations](./Array/Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/) | Medium |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./Array/Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201/) | Medium |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/) | Easy |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/) | Easy |
 | 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
+| 3346 | [Maximum Frequency of an Element After Performing Operations I](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I/) | Medium |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/) | Hard |
+| 3349 | [Adjacent Increasing Subarrays Detection I](./Array/Adjacent%20Increasing%20Subarrays%20Detection%20I/) | Easy |
+| 3350 | [Adjacent Increasing Subarrays Detection II](./Array/Adjacent%20Increasing%20Subarrays%20Detection%20II/) | Medium |
 | 3354 | [Make Array Elements Equal to Zero](./Array/Make%20Array%20Elements%20Equal%20to%20Zero/) | Easy |
+| 3397 | [Maximum Number of Distinct Elements After Operations](./Array/Maximum%20Number%20of%20Distinct%20Elements%20After%20Operations/) | Medium |
 | 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
 | 3668 | [Restore Finishing Order](./Array/Restore%20Finishing%20Order/) | Easy |
 | 3679 | [ Minimum Discards to Balance Inventory](./Array/%20Minimum%20Discards%20to%20Balance%20Inventory/) | Medium |
@@ -143,6 +154,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 187 | [Repeated DNA Sequences](./Hash%20Table/Repeated%20DNA%20Sequences/) | Medium |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
+| 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 1930 | [Unique Length-3 Palindromic Subsequences](./Hash%20Table/Unique%20Length-3%20Palindromic%20Subsequences/) | Medium |
 | 2048 | [Next Greater Numerically Balanced Number](./Hash%20Table/Next%20Greater%20Numerically%20Balanced%20Number/) | Medium |
 | 2351 | [First Letter to Appear Twice](./Hash%20Table/First%20Letter%20to%20Appear%20Twice/) | Easy |
@@ -216,10 +228,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
+| 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
+| 1446 | [Consecutive Characters](./String/Consecutive%20Characters/) | Easy |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
+| 1625 | [Lexicographically Smallest String After Applying Operations](./String/Lexicographically%20Smallest%20String%20After%20Applying%20Operations/) | Medium |
+| 2278 | [Percentage of Letter in String](./String/Percentage%20of%20Letter%20in%20String/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 | 2710 | [Remove Trailing Zeros From a String](./String/Remove%20Trailing%20Zeros%20From%20a%20String/) | Easy |
+| 3003 | [Maximize the Number of Partitions After Operations](./String/Maximize%20the%20Number%20of%20Partitions%20After%20Operations/) | Hard |
 | 3228 | [Maximum Number of Operations to Move Ones to the End](./String/Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/) | Medium |
 | 3234 | [Count the Number of Substrings With Dominant Ones](./String/Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones/) | Medium |
 
@@ -247,6 +264,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
+| 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
+| 696 | [Count Binary Substrings](./Two%20Pointers/Count%20Binary%20Substrings/) | Easy |
 
 </details>
 
