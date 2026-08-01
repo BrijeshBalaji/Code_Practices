@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:00:55.973Z",
+  "lastUpdated": "2026-08-01T14:01:09.331Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -187,6 +187,263 @@
               "runtime": "637 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Invalid Tweets/"
+            }
+          }
+        },
+        "article-views-i": {
+          "questionId": "1148",
+          "title": "Article Views I",
+          "titleSlug": "article-views-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869330,
+              "runtime": "403 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Article Views I/"
+            }
+          }
+        },
+        "students-and-examinations": {
+          "questionId": "1280",
+          "title": "Students and Examinations",
+          "titleSlug": "students-and-examinations",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869330,
+              "runtime": "1325 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Students and Examinations/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869330,
+              "runtime": "494 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869330,
+              "runtime": "311 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
+            }
+          }
+        },
+        "find-customer-referee": {
+          "questionId": "584",
+          "title": "Find Customer Referee",
+          "titleSlug": "find-customer-referee",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869330,
+              "runtime": "638 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Customer Referee/"
+            }
+          }
+        },
+        "employees-earning-more-than-their-managers": {
+          "questionId": "181",
+          "title": "Employees Earning More Than Their Managers",
+          "titleSlug": "employees-earning-more-than-their-managers",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869330,
+              "runtime": "394 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
+            }
+          }
+        },
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869330,
+              "runtime": "510 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869330,
+              "runtime": "619 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "contiguous-array": {
+          "questionId": "525",
+          "title": "Contiguous Array",
+          "titleSlug": "contiguous-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592869331,
+              "runtime": "24 ms",
+              "memory": "65.4 MB",
+              "githubPath": "LeetCode/Array/Contiguous Array/"
+            }
+          }
+        },
+        "triangle-judgement": {
+          "questionId": "610",
+          "title": "Triangle Judgement",
+          "titleSlug": "triangle-judgement",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869331,
+              "runtime": "281 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Triangle Judgement/"
+            }
+          }
+        },
+        "duplicate-emails": {
+          "questionId": "182",
+          "title": "Duplicate Emails",
+          "titleSlug": "duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869331,
+              "runtime": "633 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Duplicate Emails/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869331,
+              "runtime": "309 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
+            }
+          }
+        },
+        "game-play-analysis-i": {
+          "questionId": "511",
+          "title": "Game Play Analysis I",
+          "titleSlug": "game-play-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869331,
+              "runtime": "826 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Game Play Analysis I/"
+            }
+          }
+        },
+        "calculate-special-bonus": {
+          "questionId": "1873",
+          "title": "Calculate Special Bonus",
+          "titleSlug": "calculate-special-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869331,
+              "runtime": "585 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Calculate Special Bonus/"
+            }
+          }
+        },
+        "not-boring-movies": {
+          "questionId": "620",
+          "title": "Not Boring Movies",
+          "titleSlug": "not-boring-movies",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592869331,
+              "runtime": "320 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Not Boring Movies/"
             }
           }
         }
