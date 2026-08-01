@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:04:30.677Z",
+  "lastUpdated": "2026-08-01T14:04:42.990Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4457,6 +4457,245 @@
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
+            }
+          }
+        },
+        "sqrtx": {
+          "questionId": "69",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082989,
+              "runtime": "22 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
+            }
+          }
+        },
+        "divisor-game": {
+          "questionId": "1025",
+          "title": "Divisor Game",
+          "titleSlug": "divisor-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Brainteaser",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082989,
+              "runtime": "0 ms",
+              "memory": "40.3 MB",
+              "githubPath": "LeetCode/Math/Divisor Game/"
+            }
+          }
+        },
+        "add-two-integers": {
+          "questionId": "2235",
+          "title": "Add Two Integers",
+          "titleSlug": "add-two-integers",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082989,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Add Two Integers/"
+            }
+          }
+        },
+        "valid-perfect-square": {
+          "questionId": "367",
+          "title": "Valid Perfect Square",
+          "titleSlug": "valid-perfect-square",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082989,
+              "runtime": "2 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Math/Valid Perfect Square/"
+            }
+          }
+        },
+        "fibonacci-number": {
+          "questionId": "509",
+          "title": "Fibonacci Number",
+          "titleSlug": "fibonacci-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082989,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Fibonacci Number/"
+            }
+          }
+        },
+        "power-of-two": {
+          "questionId": "231",
+          "title": "Power of Two",
+          "titleSlug": "power-of-two",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082989,
+              "runtime": "0 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Math/Power of Two/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082989,
+              "runtime": "8 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082989,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "ugly-number": {
+          "questionId": "263",
+          "title": "Ugly Number",
+          "titleSlug": "ugly-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082990,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Math/Ugly Number/"
+            }
+          }
+        },
+        "four-divisors": {
+          "questionId": "1390",
+          "title": "Four Divisors",
+          "titleSlug": "four-divisors",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082990,
+              "runtime": "9 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Four Divisors/"
+            }
+          }
+        },
+        "three-divisors": {
+          "questionId": "1952",
+          "title": "Three Divisors",
+          "titleSlug": "three-divisors",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Enumeration",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082990,
+              "runtime": "1 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Three Divisors/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082990,
+              "runtime": "1 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593082990,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
             }
           }
         }

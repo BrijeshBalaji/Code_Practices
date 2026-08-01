@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1785593070681" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1785593082993" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -22,6 +22,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 15 | [3Sum](./Array/3Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
+| 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
@@ -35,6 +36,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
@@ -103,6 +105,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1313 | [Decompress Run-Length Encoded List](./Array/Decompress%20Run-Length%20Encoded%20List/) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
+| 1390 | [Four Divisors](./Array/Four%20Divisors/) | Medium |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](./Array/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/) | Easy |
@@ -271,21 +274,31 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
+| 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 233 | [Number of Digit One](./Math/Number%20of%20Digit%20One/) | Hard |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
 | 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
+| 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
 | 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
+| 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
 | 829 | [Consecutive Numbers Sum](./Math/Consecutive%20Numbers%20Sum/) | Hard |
+| 1025 | [Divisor Game](./Math/Divisor%20Game/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](./Math/Number%20of%20Substrings%20With%20Only%201s/) | Medium |
 | 1518 | [Water Bottles](./Math/Water%20Bottles/) | Easy |
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](./Math/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/) | Hard |
 | 1716 | [Calculate Money in Leetcode Bank](./Math/Calculate%20Money%20in%20Leetcode%20Bank/) | Easy |
+| 1952 | [Three Divisors](./Math/Three%20Divisors/) | Easy |
 | 2169 | [Count Operations to Obtain Zero](./Math/Count%20Operations%20to%20Obtain%20Zero/) | Easy |
+| 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
 | 2413 | [Smallest Even Multiple](./Math/Smallest%20Even%20Multiple/) | Easy |
 | 3370 | [Smallest Number With All Set Bits](./Math/Smallest%20Number%20With%20All%20Set%20Bits/) | Easy |
 | 3461 | [Check If Digits Are Equal in String After Operations I](./Math/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I/) | Easy |
