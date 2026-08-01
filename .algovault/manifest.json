@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:03:49.789Z",
+  "lastUpdated": "2026-08-01T14:04:02.478Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3571,6 +3571,300 @@
               "runtime": "0 ms",
               "memory": "40.2 MB",
               "githubPath": "LeetCode/Math/Smallest Even Multiple/"
+            }
+          }
+        },
+        "decode-xored-array": {
+          "questionId": "1720",
+          "title": "Decode XORed Array",
+          "titleSlug": "decode-xored-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "1 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Decode XORed Array/"
+            }
+          }
+        },
+        "split-a-string-in-balanced-strings": {
+          "questionId": "1221",
+          "title": "Split a String in Balanced Strings",
+          "titleSlug": "split-a-string-in-balanced-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Greedy",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "0 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
+            }
+          }
+        },
+        "defanging-an-ip-address": {
+          "questionId": "1108",
+          "title": "Defanging an IP Address",
+          "titleSlug": "defanging-an-ip-address",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/String/Defanging an IP Address/"
+            }
+          }
+        },
+        "remove-outermost-parentheses": {
+          "questionId": "1021",
+          "title": "Remove Outermost Parentheses",
+          "titleSlug": "remove-outermost-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "2 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/String/Remove Outermost Parentheses/"
+            }
+          }
+        },
+        "reverse-only-letters": {
+          "questionId": "917",
+          "title": "Reverse Only Letters",
+          "titleSlug": "reverse-only-letters",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Only Letters/"
+            }
+          }
+        },
+        "array-partition": {
+          "questionId": "561",
+          "title": "Array Partition",
+          "titleSlug": "array-partition",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "14 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Array Partition/"
+            }
+          }
+        },
+        "maximum-product-of-three-numbers": {
+          "questionId": "628",
+          "title": "Maximum Product of Three Numbers",
+          "titleSlug": "maximum-product-of-three-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "11 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
+            }
+          }
+        },
+        "max-consecutive-ones": {
+          "questionId": "485",
+          "title": "Max Consecutive Ones",
+          "titleSlug": "max-consecutive-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "3 ms",
+              "memory": "50.7 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array": {
+          "questionId": "153",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
+            }
+          }
+        },
+        "subarray-sum-equals-k": {
+          "questionId": "560",
+          "title": "Subarray Sum Equals K",
+          "titleSlug": "subarray-sum-equals-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "26 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
+            }
+          }
+        },
+        "maximum-product-subarray": {
+          "questionId": "152",
+          "title": "Maximum Product Subarray",
+          "titleSlug": "maximum-product-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "2 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Product Subarray/"
+            }
+          }
+        },
+        "intersection-of-two-arrays-ii": {
+          "questionId": "350",
+          "title": "Intersection of Two Arrays II",
+          "titleSlug": "intersection-of-two-arrays-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "3 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "21 ms",
+              "memory": "59.2 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "6 ms",
+              "memory": "57.3 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "valid-mountain-array": {
+          "questionId": "941",
+          "title": "Valid Mountain Array",
+          "titleSlug": "valid-mountain-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "2 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Valid Mountain Array/"
+            }
+          }
+        },
+        "maximum-number-of-words-found-in-sentences": {
+          "questionId": "2114",
+          "title": "Maximum Number of Words Found in Sentences",
+          "titleSlug": "maximum-number-of-words-found-in-sentences",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593042478,
+              "runtime": "3 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Number of Words Found in Sentences/"
             }
           }
         }

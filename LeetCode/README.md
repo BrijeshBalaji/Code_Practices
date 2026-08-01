@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1785593029801" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1785593042480" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -34,24 +34,33 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 135 | [Candy](./Array/Candy/) | Hard |
+| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
 | 289 | [Game of Life](./Array/Game%20of%20Life/) | Medium |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
+| 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
 | 378 | [Kth Smallest Element in a Sorted Matrix](./Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/) | Medium |
 | 416 | [Partition Equal Subset Sum](./Array/Partition%20Equal%20Subset%20Sum/) | Medium |
 | 421 | [Maximum XOR of Two Numbers in an Array](./Array/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/) | Medium |
+| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 474 | [Ones and Zeroes](./Array/Ones%20and%20Zeroes/) | Medium |
+| 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
+| 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
+| 561 | [Array Partition](./Array/Array%20Partition/) | Easy |
+| 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 648 | [Replace Words](./Array/Replace%20Words/) | Medium |
@@ -69,6 +78,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
+| 941 | [Valid Mountain Array](./Array/Valid%20Mountain%20Array/) | Easy |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1262 | [Greatest Sum Divisible by Three](./Array/Greatest%20Sum%20Divisible%20by%20Three/) | Medium |
 | 1313 | [Decompress Run-Length Encoded List](./Array/Decompress%20Run-Length%20Encoded%20List/) | Easy |
@@ -84,12 +94,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1590 | [Make Sum Divisible by P](./Array/Make%20Sum%20Divisible%20by%20P/) | Medium |
 | 1652 | [Defuse the Bomb](./Array/Defuse%20the%20Bomb/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
+| 1720 | [Decode XORed Array](./Array/Decode%20XORed%20Array/) | Easy |
 | 1816 | [Truncate Sentence](./Array/Truncate%20Sentence/) | Easy |
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2043 | [Simple Bank System](./Array/Simple%20Bank%20System/) | Medium |
 | 2057 | [Smallest Index With Equal Value](./Array/Smallest%20Index%20With%20Equal%20Value/) | Easy |
+| 2114 | [Maximum Number of Words Found in Sentences](./Array/Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) | Easy |
 | 2125 | [Number of Laser Beams in a Bank](./Array/Number%20of%20Laser%20Beams%20in%20a%20Bank/) | Medium |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2154 | [Keep Multiplying Found Values by Two](./Array/Keep%20Multiplying%20Found%20Values%20by%20Two/) | Easy |
@@ -257,7 +269,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
+| 1021 | [Remove Outermost Parentheses](./String/Remove%20Outermost%20Parentheses/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
+| 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
+| 1221 | [Split a String in Balanced Strings](./String/Split%20a%20String%20in%20Balanced%20Strings/) | Easy |
 | 1446 | [Consecutive Characters](./String/Consecutive%20Characters/) | Easy |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
 | 1625 | [Lexicographically Smallest String After Applying Operations](./String/Lexicographically%20Smallest%20String%20After%20Applying%20Operations/) | Medium |
@@ -297,6 +312,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
 | 696 | [Count Binary Substrings](./Two%20Pointers/Count%20Binary%20Substrings/) | Easy |
+| 917 | [Reverse Only Letters](./Two%20Pointers/Reverse%20Only%20Letters/) | Easy |
 
 </details>
 
