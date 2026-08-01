@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:03:33.944Z",
+  "lastUpdated": "2026-08-01T14:03:49.789Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3256,6 +3256,321 @@
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Three Consecutive Odds/"
+            }
+          }
+        },
+        "number-of-employees-who-met-the-target": {
+          "questionId": "2798",
+          "title": "Number of Employees Who Met the Target",
+          "titleSlug": "number-of-employees-who-met-the-target",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029788,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Array/Number of Employees Who Met the Target/"
+            }
+          }
+        },
+        "check-if-the-sentence-is-pangram": {
+          "questionId": "1832",
+          "title": "Check if the Sentence Is Pangram",
+          "titleSlug": "check-if-the-sentence-is-pangram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029788,
+              "runtime": "1 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        },
+        "difference-between-element-sum-and-digit-sum-of-an-array": {
+          "questionId": "2535",
+          "title": "Difference Between Element Sum and Digit Sum of an Array",
+          "titleSlug": "difference-between-element-sum-and-digit-sum-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029788,
+              "runtime": "2 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Difference Between Element Sum and Digit Sum of an Array/"
+            }
+          }
+        },
+        "find-pivot-index": {
+          "questionId": "724",
+          "title": "Find Pivot Index",
+          "titleSlug": "find-pivot-index",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029788,
+              "runtime": "1 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Find Pivot Index/"
+            }
+          }
+        },
+        "baseball-game": {
+          "questionId": "682",
+          "title": "Baseball Game",
+          "titleSlug": "baseball-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029788,
+              "runtime": "2 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Array/Baseball Game/"
+            }
+          }
+        },
+        "set-mismatch": {
+          "questionId": "645",
+          "title": "Set Mismatch",
+          "titleSlug": "set-mismatch",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029788,
+              "runtime": "1 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Set Mismatch/"
+            }
+          }
+        },
+        "relative-ranks": {
+          "questionId": "506",
+          "title": "Relative Ranks",
+          "titleSlug": "relative-ranks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "9 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
+            }
+          }
+        },
+        "maximum-xor-of-two-numbers-in-an-array": {
+          "questionId": "421",
+          "title": "Maximum XOR of Two Numbers in an Array",
+          "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Bit Manipulation",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "590 ms",
+              "memory": "87 MB",
+              "githubPath": "LeetCode/Array/Maximum XOR of Two Numbers in an Array/"
+            }
+          }
+        },
+        "partition-equal-subset-sum": {
+          "questionId": "416",
+          "title": "Partition Equal Subset Sum",
+          "titleSlug": "partition-equal-subset-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "29 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Partition Equal Subset Sum/"
+            }
+          }
+        },
+        "water-bottles": {
+          "questionId": "1518",
+          "title": "Water Bottles",
+          "titleSlug": "water-bottles",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "0 ms",
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Math/Water Bottles/"
+            }
+          }
+        },
+        "how-many-numbers-are-smaller-than-the-current-number": {
+          "questionId": "1365",
+          "title": "How Many Numbers Are Smaller Than the Current Number",
+          "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "1 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/How Many Numbers Are Smaller Than the Current Number/"
+            }
+          }
+        },
+        "number-of-good-pairs": {
+          "questionId": "1512",
+          "title": "Number of Good Pairs",
+          "titleSlug": "number-of-good-pairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "0 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Array/Number of Good Pairs/"
+            }
+          }
+        },
+        "largest-triangle-area": {
+          "questionId": "812",
+          "title": "Largest Triangle Area",
+          "titleSlug": "largest-triangle-area",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "8 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Array/Largest Triangle Area/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "build-array-from-permutation": {
+          "questionId": "1920",
+          "title": "Build Array from Permutation",
+          "titleSlug": "build-array-from-permutation",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Build Array from Permutation/"
+            }
+          }
+        },
+        "sorting-the-sentence": {
+          "questionId": "1859",
+          "title": "Sorting the Sentence",
+          "titleSlug": "sorting-the-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/String/Sorting the Sentence/"
+            }
+          }
+        },
+        "smallest-even-multiple": {
+          "questionId": "2413",
+          "title": "Smallest Even Multiple",
+          "titleSlug": "smallest-even-multiple",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593029789,
+              "runtime": "0 ms",
+              "memory": "40.2 MB",
+              "githubPath": "LeetCode/Math/Smallest Even Multiple/"
             }
           }
         }
