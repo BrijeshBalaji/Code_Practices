@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:02:12.029Z",
+  "lastUpdated": "2026-08-01T14:02:27.701Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1547,6 +1547,240 @@
               "runtime": "8 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Maximize Sum of At Most K Distinct Elements/"
+            }
+          }
+        },
+        "restore-finishing-order": {
+          "questionId": "3668",
+          "title": "Restore Finishing Order",
+          "titleSlug": "restore-finishing-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "3 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Restore Finishing Order/"
+            }
+          }
+        },
+        "find-all-lonely-numbers-in-the-array": {
+          "questionId": "2150",
+          "title": "Find All Lonely Numbers in the Array",
+          "titleSlug": "find-all-lonely-numbers-in-the-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "74 ms",
+              "memory": "158 MB",
+              "githubPath": "LeetCode/Array/Find All Lonely Numbers in the Array/"
+            }
+          }
+        },
+        "top-k-frequent-words": {
+          "questionId": "692",
+          "title": "Top K Frequent Words",
+          "titleSlug": "top-k-frequent-words",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "12 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Top K Frequent Words/"
+            }
+          }
+        },
+        "first-letter-to-appear-twice": {
+          "questionId": "2351",
+          "title": "First Letter to Appear Twice",
+          "titleSlug": "first-letter-to-appear-twice",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Hash Table/First Letter to Appear Twice/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "5 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "running-sum-of-1d-array": {
+          "questionId": "1480",
+          "title": "Running Sum of 1d Array",
+          "titleSlug": "running-sum-of-1d-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "0 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "5 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "search-a-2d-matrix": {
+          "questionId": "74",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "0 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix/"
+            }
+          }
+        },
+        "rotate-image": {
+          "questionId": "48",
+          "title": "Rotate Image",
+          "titleSlug": "rotate-image",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            }
+          }
+        },
+        "toeplitz-matrix": {
+          "questionId": "766",
+          "title": "Toeplitz Matrix",
+          "titleSlug": "toeplitz-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "0 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Toeplitz Matrix/"
+            }
+          }
+        },
+        "kth-smallest-element-in-a-sorted-matrix": {
+          "questionId": "378",
+          "title": "Kth Smallest Element in a Sorted Matrix",
+          "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "16 ms",
+              "memory": "51.7 MB",
+              "githubPath": "LeetCode/Array/Kth Smallest Element in a Sorted Matrix/"
+            }
+          }
+        },
+        "matrix-diagonal-sum": {
+          "questionId": "1572",
+          "title": "Matrix Diagonal Sum",
+          "titleSlug": "matrix-diagonal-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592947701,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Matrix Diagonal Sum/"
             }
           }
         }
