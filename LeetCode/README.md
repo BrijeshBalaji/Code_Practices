@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1785592869332" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1785592880623" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -20,9 +20,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
+| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
+| 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
+| 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
+| 1652 | [Defuse the Bomb](./Array/Defuse%20the%20Bomb/) | Easy |
 
 </details>
 
@@ -51,6 +56,42 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
+
+</details>
+
+
+### Hash Table
+<details>
+<summary>Click to expand Hash Table problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
+| 187 | [Repeated DNA Sequences](./Hash%20Table/Repeated%20DNA%20Sequences/) | Medium |
+
+</details>
+
+
+### Linked List
+<details>
+<summary>Click to expand Linked List problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Medium |
+
+</details>
+
+
+### Math
+<details>
+<summary>Click to expand Math problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
 
 </details>
 

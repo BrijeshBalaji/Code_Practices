@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:01:09.331Z",
+  "lastUpdated": "2026-08-01T14:01:20.622Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -444,6 +444,211 @@
               "runtime": "320 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Not Boring Movies/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock": {
+          "questionId": "121",
+          "title": "Best Time to Buy and Sell Stock",
+          "titleSlug": "best-time-to-buy-and-sell-stock",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "2 ms",
+              "memory": "94.4 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "degree-of-an-array": {
+          "questionId": "697",
+          "title": "Degree of an Array",
+          "titleSlug": "degree-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "5 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/Array/Degree of an Array/"
+            }
+          }
+        },
+        "integer-to-roman": {
+          "questionId": "12",
+          "title": "Integer to Roman",
+          "titleSlug": "integer-to-roman",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "3 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "defuse-the-bomb": {
+          "questionId": "1652",
+          "title": "Defuse the Bomb",
+          "titleSlug": "defuse-the-bomb",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "2 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Defuse the Bomb/"
+            }
+          }
+        },
+        "repeated-dna-sequences": {
+          "questionId": "187",
+          "title": "Repeated DNA Sequences",
+          "titleSlug": "repeated-dna-sequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sliding Window",
+            "Rolling Hash",
+            "Hash Function"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "20 ms",
+              "memory": "55.7 MB",
+              "githubPath": "LeetCode/Hash Table/Repeated DNA Sequences/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "2 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "odd-even-linked-list": {
+          "questionId": "328",
+          "title": "Odd Even Linked List",
+          "titleSlug": "odd-even-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "0 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Linked List/Odd Even Linked List/"
+            }
+          }
+        },
+        "add-binary": {
+          "questionId": "67",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "6 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "add-strings": {
+          "questionId": "415",
+          "title": "Add Strings",
+          "titleSlug": "add-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "19 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Math/Add Strings/"
+            }
+          }
+        },
+        "powx-n": {
+          "questionId": "50",
+          "title": "Pow(x, n)",
+          "titleSlug": "powx-n",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "0 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Math/Pow(x, n)/"
+            }
+          }
+        },
+        "maximum-average-subarray-i": {
+          "questionId": "643",
+          "title": "Maximum Average Subarray I",
+          "titleSlug": "maximum-average-subarray-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592880622,
+              "runtime": "5 ms",
+              "memory": "69.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
             }
           }
         }
