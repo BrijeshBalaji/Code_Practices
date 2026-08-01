@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:02:27.701Z",
+  "lastUpdated": "2026-08-01T14:02:37.663Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1781,6 +1781,231 @@
               "runtime": "1 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Matrix Diagonal Sum/"
+            }
+          }
+        },
+        "transpose-matrix": {
+          "questionId": "867",
+          "title": "Transpose Matrix",
+          "titleSlug": "transpose-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957662,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Transpose Matrix/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957662,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "detect-capital": {
+          "questionId": "520",
+          "title": "Detect Capital",
+          "titleSlug": "detect-capital",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957662,
+              "runtime": "1 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/String/Detect Capital/"
+            }
+          }
+        },
+        "keyboard-row": {
+          "questionId": "500",
+          "title": "Keyboard Row",
+          "titleSlug": "keyboard-row",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957662,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Keyboard Row/"
+            }
+          }
+        },
+        "minimum-discards-to-balance-inventory": {
+          "questionId": "3679",
+          "title": " Minimum Discards to Balance Inventory",
+          "titleSlug": "minimum-discards-to-balance-inventory",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Simulation",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957662,
+              "runtime": "30 ms",
+              "memory": "132.9 MB",
+              "githubPath": "LeetCode/Array/ Minimum Discards to Balance Inventory/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957662,
+              "runtime": "7 ms",
+              "memory": "49.2 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "consecutive-numbers-sum": {
+          "questionId": "829",
+          "title": "Consecutive Numbers Sum",
+          "titleSlug": "consecutive-numbers-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957662,
+              "runtime": "4 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Consecutive Numbers Sum/"
+            }
+          }
+        },
+        "number-of-digit-one": {
+          "questionId": "233",
+          "title": "Number of Digit One",
+          "titleSlug": "number-of-digit-one",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957662,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Number of Digit One/"
+            }
+          }
+        },
+        "first-missing-positive": {
+          "questionId": "41",
+          "title": "First Missing Positive",
+          "titleSlug": "first-missing-positive",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957663,
+              "runtime": "1 ms",
+              "memory": "71.4 MB",
+              "githubPath": "LeetCode/Array/First Missing Positive/"
+            }
+          }
+        },
+        "make-sum-divisible-by-p": {
+          "questionId": "1590",
+          "title": "Make Sum Divisible by P",
+          "titleSlug": "make-sum-divisible-by-p",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957663,
+              "runtime": "21 ms",
+              "memory": "88 MB",
+              "githubPath": "LeetCode/Array/Make Sum Divisible by P/"
+            }
+          }
+        },
+        "greatest-sum-divisible-by-three": {
+          "questionId": "1262",
+          "title": "Greatest Sum Divisible by Three",
+          "titleSlug": "greatest-sum-divisible-by-three",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957663,
+              "runtime": "14 ms",
+              "memory": "49.9 MB",
+              "githubPath": "LeetCode/Array/Greatest Sum Divisible by Three/"
+            }
+          }
+        },
+        "find-minimum-operations-to-make-all-elements-divisible-by-three": {
+          "questionId": "3190",
+          "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+          "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592957663,
+              "runtime": "0 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Find Minimum Operations to Make All Elements Divisible by Three/"
             }
           }
         }
