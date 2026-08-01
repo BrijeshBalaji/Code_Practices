@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:01:48.009Z",
+  "lastUpdated": "2026-08-01T14:02:02.618Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1185,6 +1185,200 @@
               "runtime": "35 ms",
               "memory": "100 MB",
               "githubPath": "LeetCode/Stack/Min Stack/"
+            }
+          }
+        },
+        "find-all-anagrams-in-a-string": {
+          "questionId": "438",
+          "title": "Find All Anagrams in a String",
+          "titleSlug": "find-all-anagrams-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "10 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "2 ms",
+              "memory": "62.2 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "equal-row-and-column-pairs": {
+          "questionId": "2352",
+          "title": "Equal Row and Column Pairs",
+          "titleSlug": "equal-row-and-column-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "40 ms",
+              "memory": "54.6 MB",
+              "githubPath": "LeetCode/Array/Equal Row and Column Pairs/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "41 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "count-and-say": {
+          "questionId": "38",
+          "title": "Count and Say",
+          "titleSlug": "count-and-say",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "2 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Count and Say/"
+            }
+          }
+        },
+        "text-justification": {
+          "questionId": "68",
+          "title": "Text Justification",
+          "titleSlug": "text-justification",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Text Justification/"
+            }
+          }
+        },
+        "find-k-closest-elements": {
+          "questionId": "658",
+          "title": "Find K Closest Elements",
+          "titleSlug": "find-k-closest-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "4 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Find K Closest Elements/"
+            }
+          }
+        },
+        "count-number-of-nice-subarrays": {
+          "questionId": "1248",
+          "title": "Count Number of Nice Subarrays",
+          "titleSlug": "count-number-of-nice-subarrays",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "43 ms",
+              "memory": "56.5 MB",
+              "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
+            }
+          }
+        },
+        "binary-subarrays-with-sum": {
+          "questionId": "930",
+          "title": "Binary Subarrays With Sum",
+          "titleSlug": "binary-subarrays-with-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "21 ms",
+              "memory": "50.3 MB",
+              "githubPath": "LeetCode/Array/Binary Subarrays With Sum/"
+            }
+          }
+        },
+        "maximum-points-you-can-obtain-from-cards": {
+          "questionId": "1423",
+          "title": "Maximum Points You Can Obtain from Cards",
+          "titleSlug": "maximum-points-you-can-obtain-from-cards",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592922618,
+              "runtime": "2 ms",
+              "memory": "61.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
             }
           }
         }
