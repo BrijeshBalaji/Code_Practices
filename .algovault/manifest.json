@@ -1,0 +1,197 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-01T14:00:55.973Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "valid-sudoku": {
+          "questionId": "36",
+          "title": "Valid Sudoku",
+          "titleSlug": "valid-sudoku",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592855972,
+              "runtime": "3 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Valid Sudoku/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592855973,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592855973,
+              "runtime": "3 ms",
+              "memory": "64.7 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "top-k-frequent-elements": {
+          "questionId": "347",
+          "title": "Top K Frequent Elements",
+          "titleSlug": "top-k-frequent-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592855973,
+              "runtime": "64 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Top K Frequent Elements/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592855973,
+              "runtime": "7 ms",
+              "memory": "49.4 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785592855973,
+              "runtime": "2 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "customer-who-visited-but-did-not-make-any-transactions": {
+          "questionId": "1581",
+          "title": "Customer Who Visited but Did Not Make Any Transactions",
+          "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592855973,
+              "runtime": "1384 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customer Who Visited but Did Not Make Any Transactions/"
+            }
+          }
+        },
+        "product-sales-analysis-i": {
+          "questionId": "1068",
+          "title": "Product Sales Analysis I",
+          "titleSlug": "product-sales-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592855973,
+              "runtime": "1181 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Product Sales Analysis I/"
+            }
+          }
+        },
+        "replace-employee-id-with-the-unique-identifier": {
+          "questionId": "1378",
+          "title": "Replace Employee ID With The Unique Identifier",
+          "titleSlug": "replace-employee-id-with-the-unique-identifier",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592855973,
+              "runtime": "1151 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
+            }
+          }
+        },
+        "invalid-tweets": {
+          "questionId": "1683",
+          "title": "Invalid Tweets",
+          "titleSlug": "invalid-tweets",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785592855973,
+              "runtime": "637 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Invalid Tweets/"
+            }
+          }
+        }
+      },
+      "username": "Brijesh_Balaji"
+    }
+  }
+}

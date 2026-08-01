@@ -1,28 +1,23 @@
 <!-- ALGOVAULT:STATS:START -->
-# 🚀 Data Structures & Algorithms Master Repository
+# 🏆 Ultimate Competitive Programming & DSA Vault
 
-A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
+Welcome to my **Master Repository** for Data Structures, Algorithms, and Competitive Programming! 🚀
+
+This repository contains my personal library of highly optimized, strictly tested, and structured solutions to problems across multiple platforms. It is designed to track my progress, document optimal coding patterns, and demonstrate technical excellence in problem-solving.
+
+## 📊 Real-Time Performance Analytics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Brijesh_Balaji?theme=dark&font=Poppins&ext=heatmap" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1785592856366" width="100%" />
 </p>
 
-# 📚 Structured Problem Solving Topics
+## 📂 Repository Structure
 
+- **[LeetCode](./LeetCode)**: Topic-wise FAANG interview preparation and algorithmic challenges.
 
-### Array
-<details>
-<summary>Click to expand Array problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
-
-</details>
-
-
+---
 <p align="center">
-Building Technical Excellence Through Consistent Problem Solving.
+  <i>Auto-generated & continuously synced by <b>AlgoVault</b>. Building technical excellence through consistent problem solving.</i>
 </p>
 
 <!-- ALGOVAULT:STATS:END -->
