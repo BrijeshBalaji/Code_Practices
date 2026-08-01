@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T14:03:19.503Z",
+  "lastUpdated": "2026-08-01T14:03:33.944Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2994,6 +2994,268 @@
               "runtime": "10 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Find Resultant Array After Removing Anagrams/"
+            }
+          }
+        },
+        "find-the-minimum-amount-of-time-to-brew-potions": {
+          "questionId": "3494",
+          "title": "Find the Minimum Amount of Time to Brew Potions",
+          "titleSlug": "find-the-minimum-amount-of-time-to-brew-potions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Simulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013943,
+              "runtime": "140 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Find the Minimum Amount of Time to Brew Potions/"
+            }
+          }
+        },
+        "sort-characters-by-frequency": {
+          "questionId": "451",
+          "title": "Sort Characters By Frequency",
+          "titleSlug": "sort-characters-by-frequency",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013943,
+              "runtime": "3 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
+            }
+          }
+        },
+        "check-if-number-has-equal-digit-count-and-digit-value": {
+          "questionId": "2283",
+          "title": "Check if Number Has Equal Digit Count and Digit Value",
+          "titleSlug": "check-if-number-has-equal-digit-count-and-digit-value",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013943,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
+            }
+          }
+        },
+        "rotate-string": {
+          "questionId": "796",
+          "title": "Rotate String",
+          "titleSlug": "rotate-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013943,
+              "runtime": "5 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/String/Rotate String/"
+            }
+          }
+        },
+        "count-elements-with-maximum-frequency": {
+          "questionId": "3005",
+          "title": "Count Elements With Maximum Frequency",
+          "titleSlug": "count-elements-with-maximum-frequency",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013943,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Count Elements With Maximum Frequency/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013943,
+              "runtime": "25 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013943,
+              "runtime": "2 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013944,
+              "runtime": "6 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013944,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "find-the-difference": {
+          "questionId": "389",
+          "title": "Find the Difference",
+          "titleSlug": "find-the-difference",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013944,
+              "runtime": "1 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Hash Table/Find the Difference/"
+            }
+          }
+        },
+        "is-subsequence": {
+          "questionId": "392",
+          "title": "Is Subsequence",
+          "titleSlug": "is-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013944,
+              "runtime": "2 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
+            }
+          }
+        },
+        "non-decreasing-array": {
+          "questionId": "665",
+          "title": "Non-decreasing Array",
+          "titleSlug": "non-decreasing-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013944,
+              "runtime": "1 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Non-decreasing Array/"
+            }
+          }
+        },
+        "find-if-digit-game-can-be-won": {
+          "questionId": "3232",
+          "title": "Find if Digit Game Can Be Won",
+          "titleSlug": "find-if-digit-game-can-be-won",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013944,
+              "runtime": "1 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Find if Digit Game Can Be Won/"
+            }
+          }
+        },
+        "three-consecutive-odds": {
+          "questionId": "1550",
+          "title": "Three Consecutive Odds",
+          "titleSlug": "three-consecutive-odds",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785593013944,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Three Consecutive Odds/"
             }
           }
         }
