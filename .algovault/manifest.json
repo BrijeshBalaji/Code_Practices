@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T15:15:40.172Z",
+  "lastUpdated": "2026-08-13T15:17:49.359Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -556,6 +556,12 @@
               "syncedAt": 1786634140171,
               "runtime": "2 ms",
               "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            },
+            "1c": {
+              "syncedAt": 1786634269359,
+              "runtime": "2 ms",
+              "memory": "47.82 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
             }
           }
