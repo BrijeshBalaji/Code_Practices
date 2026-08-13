@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T15:44:28.881Z",
+  "lastUpdated": "2026-08-13T15:45:45.265Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4722,6 +4722,12 @@
               "syncedAt": 1786635868881,
               "runtime": "1 ms",
               "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            },
+            "89191113121416181710157634512        while(left<right){            if(leftmax <rightmax){        }                leftmax=math.max(leftmax,height[left]);            }                water+=leftmax-height[left];            else{                rightmax=math.max(rightmax,height[right]);            }                water+=rightmax-height[right];                left++;                right--;        int rightmax = height[right];        int leftmax = height[left];        int left =0;        int right = height.length-1;        int water = 0;class solution {    public int trap(int[] height) {": {
+              "syncedAt": 1786635945264,
+              "runtime": "0 ms",
+              "memory": "47.24 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
             }
           }

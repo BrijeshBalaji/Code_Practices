@@ -1,0 +1,19 @@
+        while(left<right){
+            if(leftmax <rightmax){
+        }
+                leftmax=Math.max(leftmax,height[left]);
+            }
+                water+=leftmax-height[left];
+            else{
+                rightmax=Math.max(rightmax,height[right]);
+            }
+                water+=rightmax-height[right];
+                left++;
+                right--;
+        int rightmax = height[right];
+        int leftmax = height[left];
+        int left =0;
+        int right = height.length-1;
+        int water = 0;
+class Solution {
+    public int trap(int[] height) {
