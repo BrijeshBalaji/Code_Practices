@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T15:17:49.359Z",
+  "lastUpdated": "2026-08-13T15:24:38.854Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -689,9 +689,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1786634678853,
               "runtime": "2 ms",
-              "memory": "48.6 MB",
+              "memory": "48 MB",
               "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
             }
           }
