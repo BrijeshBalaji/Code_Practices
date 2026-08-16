@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-16T14:01:25.822Z",
+  "lastUpdated": "2026-08-16T14:33:35.224Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4756,9 +4756,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786888885822,
-              "runtime": "33 ms",
-              "memory": "99 MB",
+              "syncedAt": 1786890815224,
+              "runtime": "34 ms",
+              "memory": "99.2 MB",
               "githubPath": "LeetCode/Array/Maximum Sum of Distinct Subarrays With Length K/"
             }
           }
