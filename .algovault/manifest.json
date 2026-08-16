@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-14T01:03:37.762Z",
+  "lastUpdated": "2026-08-16T14:01:25.822Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4741,6 +4741,25 @@
               "runtime": "0 ms",
               "memory": "47.24 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            }
+          }
+        },
+        "maximum-sum-of-distinct-subarrays-with-length-k": {
+          "questionId": "2461",
+          "title": "Maximum Sum of Distinct Subarrays With Length K",
+          "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786888885822,
+              "runtime": "33 ms",
+              "memory": "99 MB",
+              "githubPath": "LeetCode/Array/Maximum Sum of Distinct Subarrays With Length K/"
             }
           }
         }

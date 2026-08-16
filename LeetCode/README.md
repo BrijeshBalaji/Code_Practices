@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1786669418043" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1786888885864" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -132,6 +132,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2154 | [Keep Multiplying Found Values by Two](./Array/Keep%20Multiplying%20Found%20Values%20by%20Two/) | Easy |
 | 2273 | [Find Resultant Array After Removing Anagrams](./Array/Find%20Resultant%20Array%20After%20Removing%20Anagrams/) | Easy |
 | 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](./Array/Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K/) | Medium |
 | 2528 | [Maximize the Minimum Powered City](./Array/Maximize%20the%20Minimum%20Powered%20City/) | Hard |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](./Array/Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/) | Easy |
