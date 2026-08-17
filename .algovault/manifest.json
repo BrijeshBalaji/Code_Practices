@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-16T14:33:35.224Z",
+  "lastUpdated": "2026-08-17T03:21:05.878Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3731,9 +3731,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
-              "runtime": "3 ms",
-              "memory": "50.7 MB",
+              "syncedAt": 1786936865878,
+              "runtime": "2 ms",
+              "memory": "52.5 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
             }
           }
