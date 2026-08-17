@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T04:27:06.078Z",
+  "lastUpdated": "2026-08-17T05:32:17.186Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4792,6 +4792,26 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        },
+        "subarray-product-less-than-k": {
+          "questionId": "713",
+          "title": "Subarray Product Less Than K",
+          "titleSlug": "subarray-product-less-than-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786944737185,
+              "runtime": "2 ms",
+              "memory": "49.1 MB",
+              "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
             }
           }
         }
