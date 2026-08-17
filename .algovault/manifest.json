@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T03:24:29.340Z",
+  "lastUpdated": "2026-08-17T04:13:56.196Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4766,6 +4766,26 @@
               "runtime": "34 ms",
               "memory": "99.2 MB",
               "githubPath": "LeetCode/Array/Maximum Sum of Distinct Subarrays With Length K/"
+            }
+          }
+        },
+        "max-consecutive-ones-iii": {
+          "questionId": "1004",
+          "title": "Max Consecutive Ones III",
+          "titleSlug": "max-consecutive-ones-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786940036195,
+              "runtime": "3 ms",
+              "memory": "52.3 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
             }
           }
         }
