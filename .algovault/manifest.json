@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T03:22:31.742Z",
+  "lastUpdated": "2026-08-17T03:24:29.340Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3734,6 +3734,12 @@
               "syncedAt": 1786936951742,
               "runtime": "2 ms",
               "memory": "52.6 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            },
+            "1234567891011121314151617class solution {    public int findmaxconsecutiveones(int[] nums) {        int n = nums.length;        int max =0;        int curr =0;        for(int i=0;i<n;i++){            if(nums[i]==1){                curr++;            }            else{                max=math.max(max,curr);                curr=0;            }        }        return math.max(max,curr);    }}": {
+              "syncedAt": 1786937069339,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
             }
           }
