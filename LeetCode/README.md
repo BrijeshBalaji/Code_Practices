@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1786944737227" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1787016051424" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -100,6 +100,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
+| 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 941 | [Valid Mountain Array](./Array/Valid%20Mountain%20Array/) | Easy |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |

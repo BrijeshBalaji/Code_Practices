@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T05:32:17.186Z",
+  "lastUpdated": "2026-08-18T01:20:51.393Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4812,6 +4812,25 @@
               "runtime": "2 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
+            }
+          }
+        },
+        "fruit-into-baskets": {
+          "questionId": "904",
+          "title": "Fruit Into Baskets",
+          "titleSlug": "fruit-into-baskets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787016051392,
+              "runtime": "54 ms",
+              "memory": "70.3 MB",
+              "githubPath": "LeetCode/Array/Fruit Into Baskets/"
             }
           }
         }
