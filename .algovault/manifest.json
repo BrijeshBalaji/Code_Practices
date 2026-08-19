@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T15:13:04.170Z",
+  "lastUpdated": "2026-08-19T15:55:56.847Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4850,6 +4850,12 @@
               "syncedAt": 1787149886112,
               "runtime": "48 ms",
               "memory": "50.2 MB",
+              "githubPath": "LeetCode/Array/Subarrays with K Different Integers/"
+            },
+            "78965432110111213141516171819202122            int count =0;            hashmap<integer,integer> map = new hashmap<>();            for(int right=0;right<nums.length;right++){            int left = 0;            private int atmost(int nums[],int k){    }        return atmost(nums,k)-atmost(nums,k-1);    public int subarrayswithkdistinct(int[] nums, int k) {class solution {                map.put(nums[right],map.getordefault(nums[right],0)+1);                while(map.size()>k){                    map.put(nums[left],map.get(nums[left])-1);                    if(map.get(nums[left])==0){                        map.remove(nums[left]);                    }                    left++;                }                count+=right-left+1;            }            return count;    }}": {
+              "syncedAt": 1787154956845,
+              "runtime": "0 ms",
+              "memory": "50.15 MB",
               "githubPath": "LeetCode/Array/Subarrays with K Different Integers/"
             }
           }
