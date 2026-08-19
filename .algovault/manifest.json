@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T14:31:26.112Z",
+  "lastUpdated": "2026-08-19T15:13:04.170Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4827,7 +4827,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787016051392,
+              "syncedAt": 1787152384169,
               "runtime": "54 ms",
               "memory": "70.3 MB",
               "githubPath": "LeetCode/Array/Fruit Into Baskets/"
