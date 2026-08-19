@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T01:20:51.393Z",
+  "lastUpdated": "2026-08-19T14:31:26.112Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4831,6 +4831,26 @@
               "runtime": "54 ms",
               "memory": "70.3 MB",
               "githubPath": "LeetCode/Array/Fruit Into Baskets/"
+            }
+          }
+        },
+        "subarrays-with-k-different-integers": {
+          "questionId": "992",
+          "title": "Subarrays with K Different Integers",
+          "titleSlug": "subarrays-with-k-different-integers",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787149886112,
+              "runtime": "48 ms",
+              "memory": "50.2 MB",
+              "githubPath": "LeetCode/Array/Subarrays with K Different Integers/"
             }
           }
         }
