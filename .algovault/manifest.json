@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T01:13:11.064Z",
+  "lastUpdated": "2026-08-20T14:14:52.701Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4891,6 +4891,25 @@
               "runtime": "0 ms",
               "memory": "152.39 MB",
               "githubPath": "LeetCode/Array/Sliding Window Maximum/"
+            }
+          }
+        },
+        "valid-palindrome-ii": {
+          "questionId": "680",
+          "title": "Valid Palindrome II",
+          "titleSlug": "valid-palindrome-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787235292700,
+              "runtime": "4 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome II/"
             }
           }
         }
