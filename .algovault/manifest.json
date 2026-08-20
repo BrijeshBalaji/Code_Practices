@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T01:01:18.681Z",
+  "lastUpdated": "2026-08-20T01:03:00.979Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4847,7 +4847,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787149886112,
+              "syncedAt": 1787187780978,
               "runtime": "48 ms",
               "memory": "50.2 MB",
               "githubPath": "LeetCode/Array/Subarrays with K Different Integers/"
