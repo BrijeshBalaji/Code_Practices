@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T01:08:18.106Z",
+  "lastUpdated": "2026-08-20T01:13:11.064Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4884,6 +4884,12 @@
               "syncedAt": 1787188098105,
               "runtime": "0 ms",
               "memory": "N/A",
+              "githubPath": "LeetCode/Array/Sliding Window Maximum/"
+            },
+            "1c": {
+              "syncedAt": 1787188391063,
+              "runtime": "0 ms",
+              "memory": "152.39 MB",
               "githubPath": "LeetCode/Array/Sliding Window Maximum/"
             }
           }
