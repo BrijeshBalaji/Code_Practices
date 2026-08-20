@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T01:03:00.979Z",
+  "lastUpdated": "2026-08-20T01:08:18.106Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4878,6 +4878,12 @@
               "syncedAt": 1787187678680,
               "runtime": "32 ms",
               "memory": "152.4 MB",
+              "githubPath": "LeetCode/Array/Sliding Window Maximum/"
+            },
+            "1234567891011121314151617181920class solution {    public int[] maxslidingwindow(int[] nums, int k) {        int n = nums.length;        int res[]=new int[n-k+1];        deque<integer> deque = new linkedlist<>();        for(int right=0;right<n;right++){            while(!deque.isempty() && deque.peekfirst()<=right-k){                deque.pollfirst();            }            while(!deque.isempty() && nums[deque.peeklast()]<=nums[right]){                deque.polllast();            }            deque.add(right);            if(right>=k-1){                res[right - k + 1]=nums[deque.peekfirst()];            }        }        return res;    }}": {
+              "syncedAt": 1787188098105,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Sliding Window Maximum/"
             }
           }
