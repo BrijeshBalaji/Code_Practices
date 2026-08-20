@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T15:55:56.847Z",
+  "lastUpdated": "2026-08-20T01:01:18.681Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4857,6 +4857,28 @@
               "runtime": "0 ms",
               "memory": "50.15 MB",
               "githubPath": "LeetCode/Array/Subarrays with K Different Integers/"
+            }
+          }
+        },
+        "sliding-window-maximum": {
+          "questionId": "239",
+          "title": "Sliding Window Maximum",
+          "titleSlug": "sliding-window-maximum",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Queue",
+            "Sliding Window",
+            "Heap (Priority Queue)",
+            "Monotonic Queue",
+            "Range Minimum/Maximum Query"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787187678680,
+              "runtime": "32 ms",
+              "memory": "152.4 MB",
+              "githubPath": "LeetCode/Array/Sliding Window Maximum/"
             }
           }
         }
