@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1787310238829" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Brijesh_Balaji?theme=tokyonight&show=graph,recent&v=1787310246570" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -323,6 +323,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
+| 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
+| 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
 | 155 | [Min Stack](./Stack/Min%20Stack/) | Medium |
 | 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
 
@@ -374,6 +377,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
+| 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
 
 </details>
 
@@ -384,6 +388,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |

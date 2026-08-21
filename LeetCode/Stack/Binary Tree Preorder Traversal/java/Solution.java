@@ -14,16 +14,17 @@
  * }
  */
 class Solution {
-    public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p==null && q==null){
-            return true;
+    public List<Integer> preorderTraversal(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        preorder(root,list);
+        return list;
+    }
+    void preorder(TreeNode root , List<Integer>list){
+        if(root==null){
+            return;
         }
-        if(p==null || q==null){
-            return false;
-        }
-        if(p.val != q.val){
-            return false;
-        }
-        return isSameTree(p.left ,q.left) && isSameTree(p.right , q.right);
+        list.add(root.val);
+        preorder(root.left,list);
+        preorder(root.right,list);
     }
 }
