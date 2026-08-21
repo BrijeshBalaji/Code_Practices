@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:04:31.434Z",
+  "lastUpdated": "2026-08-21T11:04:39.390Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -901,7 +901,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908008,
+              "syncedAt": 1787310279389,
               "runtime": "0 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
@@ -920,7 +920,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908008,
+              "syncedAt": 1787310279389,
               "runtime": "1 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
@@ -939,7 +939,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908008,
+              "syncedAt": 1787310279389,
               "runtime": "1 ms",
               "memory": "52.7 MB",
               "githubPath": "LeetCode/Hash Table/Intersection of Two Linked Lists/"
@@ -956,7 +956,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908008,
+              "syncedAt": 1787310279389,
               "runtime": "0 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
@@ -973,7 +973,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908008,
+              "syncedAt": 1787310279389,
               "runtime": "0 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
@@ -992,7 +992,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908008,
+              "syncedAt": 1787310279390,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
@@ -1011,7 +1011,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908009,
+              "syncedAt": 1787310279390,
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
@@ -1029,7 +1029,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908009,
+              "syncedAt": 1787310279390,
               "runtime": "0 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
@@ -1047,7 +1047,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908009,
+              "syncedAt": 1787310279390,
               "runtime": "0 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List/"
@@ -1065,7 +1065,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908009,
+              "syncedAt": 1787310279390,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
@@ -1084,7 +1084,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908009,
+              "syncedAt": 1787310279390,
               "runtime": "12 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/String/Dota2 Senate/"
@@ -1103,7 +1103,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908009,
+              "syncedAt": 1787310279390,
               "runtime": "21 ms",
               "memory": "59.4 MB",
               "githubPath": "LeetCode/Design/Number of Recent Calls/"
@@ -1122,7 +1122,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908009,
+              "syncedAt": 1787310279390,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Stack/Implement Queue using Stacks/"
@@ -1181,7 +1181,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908009,
+              "syncedAt": 1787310279390,
               "runtime": "16 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Array/Next Greater Element II/"
