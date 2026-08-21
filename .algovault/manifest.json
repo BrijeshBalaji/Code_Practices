@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:04:24.863Z",
+  "lastUpdated": "2026-08-21T11:04:31.434Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -651,7 +651,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592880622,
+              "syncedAt": 1787310271434,
               "runtime": "5 ms",
               "memory": "69.6 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
@@ -719,7 +719,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1787310271434,
               "runtime": "2 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -738,7 +738,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1787310271434,
               "runtime": "102 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -773,7 +773,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1787310271434,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
@@ -791,7 +791,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1787310271434,
               "runtime": "1 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -827,7 +827,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1787310271434,
               "runtime": "6 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Combination Sum II/"
@@ -845,7 +845,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1787310271434,
               "runtime": "2 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
@@ -864,7 +864,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1787310271434,
               "runtime": "0 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -883,7 +883,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786285623281,
+              "syncedAt": 1787310271434,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
