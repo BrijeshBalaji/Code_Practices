@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:06:11.378Z",
+  "lastUpdated": "2026-08-21T11:06:18.828Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4477,7 +4477,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593070677,
+              "syncedAt": 1787310378827,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
@@ -4495,7 +4495,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082989,
+              "syncedAt": 1787310378827,
               "runtime": "22 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
@@ -4515,7 +4515,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082989,
+              "syncedAt": 1787310378827,
               "runtime": "0 ms",
               "memory": "40.3 MB",
               "githubPath": "LeetCode/Math/Divisor Game/"
@@ -4532,7 +4532,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082989,
+              "syncedAt": 1787310378827,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Add Two Integers/"
@@ -4550,7 +4550,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082989,
+              "syncedAt": 1787310378828,
               "runtime": "2 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Math/Valid Perfect Square/"
@@ -4570,7 +4570,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082989,
+              "syncedAt": 1787310378828,
               "runtime": "0 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Fibonacci Number/"
@@ -4589,7 +4589,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082989,
+              "syncedAt": 1787310378828,
               "runtime": "0 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Math/Power of Two/"
@@ -4607,7 +4607,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082989,
+              "syncedAt": 1787310378828,
               "runtime": "8 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
@@ -4625,7 +4625,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082989,
+              "syncedAt": 1787310378828,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Array/Plus One/"
@@ -4642,7 +4642,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082990,
+              "syncedAt": 1787310378828,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
@@ -4660,7 +4660,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082990,
+              "syncedAt": 1787310378828,
               "runtime": "9 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Four Divisors/"
@@ -4679,7 +4679,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082990,
+              "syncedAt": 1787310378828,
               "runtime": "1 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Three Divisors/"
@@ -4698,7 +4698,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082990,
+              "syncedAt": 1787310378828,
               "runtime": "1 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Math/Fizz Buzz/"
@@ -4716,7 +4716,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593082990,
+              "syncedAt": 1787310378828,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Remove Element/"
