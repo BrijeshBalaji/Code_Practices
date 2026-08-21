@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:05:12.584Z",
+  "lastUpdated": "2026-08-21T11:05:19.680Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2365,7 +2365,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592971483,
+              "syncedAt": 1787310319680,
               "runtime": "3 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
@@ -2385,7 +2385,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984605,
+              "syncedAt": 1787310319680,
               "runtime": "8 ms",
               "memory": "90.4 MB",
               "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
@@ -2403,7 +2403,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
@@ -2423,7 +2423,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "704 ms",
               "memory": "60 MB",
               "githubPath": "LeetCode/Array/Replace Words/"
@@ -2442,7 +2442,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Game of Life/"
@@ -2462,7 +2462,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Stone Game/"
@@ -2480,7 +2480,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "3 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Math/Excel Sheet Column Title/"
@@ -2499,7 +2499,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "3 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Array/Make Array Elements Equal to Zero/"
@@ -2519,7 +2519,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "12 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Number of Laser Beams in a Bank/"
@@ -2539,7 +2539,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "96 ms",
               "memory": "101.5 MB",
               "githubPath": "LeetCode/Array/Simple Bank System/"
@@ -2556,7 +2556,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "1 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Calculate Money in Leetcode Bank/"
@@ -2577,7 +2577,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "162 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Hash Table/Next Greater Numerically Balanced Number/"
@@ -2595,7 +2595,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "0 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Array/House Robber/"
@@ -2616,7 +2616,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "2 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Math/Check If Digits Are Equal in String After Operations I/"
@@ -2637,7 +2637,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310319680,
               "runtime": "30 ms",
               "memory": "56.4 MB",
               "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations II/"
