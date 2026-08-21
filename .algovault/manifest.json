@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:04:19.145Z",
+  "lastUpdated": "2026-08-21T11:04:24.863Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -458,9 +458,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786296973304,
+              "syncedAt": 1787310264863,
               "runtime": "2 ms",
-              "memory": "62.5 MB",
+              "memory": "94.4 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
             }
           }
@@ -476,7 +476,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592880622,
+              "syncedAt": 1787310264863,
               "runtime": "5 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Array/Degree of an Array/"
@@ -495,7 +495,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592880622,
+              "syncedAt": 1787310264863,
               "runtime": "3 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
@@ -513,7 +513,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592880622,
+              "syncedAt": 1787310264863,
               "runtime": "2 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Defuse the Bomb/"
@@ -535,7 +535,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592880622,
+              "syncedAt": 1787310264863,
               "runtime": "20 ms",
               "memory": "55.7 MB",
               "githubPath": "LeetCode/Hash Table/Repeated DNA Sequences/"
@@ -576,7 +576,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592880622,
+              "syncedAt": 1787310264863,
               "runtime": "0 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Linked List/Odd Even Linked List/"
@@ -596,7 +596,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592880622,
+              "syncedAt": 1787310264863,
               "runtime": "6 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Math/Add Binary/"
@@ -615,7 +615,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592880622,
+              "syncedAt": 1787310264863,
               "runtime": "19 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Math/Add Strings/"
@@ -633,7 +633,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592880622,
+              "syncedAt": 1787310264863,
               "runtime": "0 ms",
               "memory": "48.3 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
