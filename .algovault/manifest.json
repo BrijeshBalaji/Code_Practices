@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:05:27.657Z",
+  "lastUpdated": "2026-08-21T11:05:34.530Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3008,7 +3008,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310334529,
               "runtime": "10 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Find Resultant Array After Removing Anagrams/"
@@ -3027,7 +3027,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013943,
+              "syncedAt": 1787310334529,
               "runtime": "140 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Find the Minimum Amount of Time to Brew Potions/"
@@ -3049,7 +3049,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013943,
+              "syncedAt": 1787310334529,
               "runtime": "3 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
@@ -3068,7 +3068,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013943,
+              "syncedAt": 1787310334529,
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
@@ -3086,7 +3086,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013943,
+              "syncedAt": 1787310334529,
               "runtime": "5 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/String/Rotate String/"
@@ -3105,7 +3105,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013943,
+              "syncedAt": 1787310334530,
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Array/Count Elements With Maximum Frequency/"
@@ -3125,7 +3125,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013943,
+              "syncedAt": 1787310334530,
               "runtime": "25 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
@@ -3144,7 +3144,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013943,
+              "syncedAt": 1787310334530,
               "runtime": "2 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
@@ -3162,7 +3162,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013944,
+              "syncedAt": 1787310334530,
               "runtime": "6 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
@@ -3179,7 +3179,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013944,
+              "syncedAt": 1787310334530,
               "runtime": "0 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/String/To Lower Case/"
@@ -3199,7 +3199,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013944,
+              "syncedAt": 1787310334530,
               "runtime": "1 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
@@ -3218,7 +3218,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013944,
+              "syncedAt": 1787310334530,
               "runtime": "2 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
@@ -3235,7 +3235,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013944,
+              "syncedAt": 1787310334530,
               "runtime": "1 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Non-decreasing Array/"
@@ -3253,7 +3253,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593013944,
+              "syncedAt": 1787310334530,
               "runtime": "1 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Find if Digit Game Can Be Won/"
