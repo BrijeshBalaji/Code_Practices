@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:05:52.078Z",
+  "lastUpdated": "2026-08-21T11:05:59.946Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3902,7 +3902,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057552,
+              "syncedAt": 1787310359945,
               "runtime": "2 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Kids With the Greatest Number of Candies/"
@@ -3939,7 +3939,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057552,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
@@ -3960,7 +3960,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057552,
+              "syncedAt": 1787310359945,
               "runtime": "2 ms",
               "memory": "53.3 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
@@ -3979,7 +3979,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057552,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "57.4 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
@@ -3998,7 +3998,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057552,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Array/Merge Sorted Array/"
@@ -4017,7 +4017,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "1 ms",
               "memory": "57.2 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -4034,7 +4034,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "40.5 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
@@ -4052,7 +4052,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -4070,7 +4070,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "2 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/Find Numbers with Even Number of Digits/"
@@ -4088,7 +4088,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
@@ -4106,7 +4106,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "3 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Third Maximum Number/"
@@ -4125,7 +4125,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Maximum Count of Positive Integer and Negative Integer/"
@@ -4146,7 +4146,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Flipping an Image/"
@@ -4163,7 +4163,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
@@ -4181,7 +4181,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593057553,
+              "syncedAt": 1787310359945,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
