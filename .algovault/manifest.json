@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T14:14:52.701Z",
+  "lastUpdated": "2026-08-21T11:03:51.288Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -132,8 +132,8 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592855973,
-              "runtime": "1384 ms",
+              "syncedAt": 1787310231287,
+              "runtime": "1639 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customer Who Visited but Did Not Make Any Transactions/"
             }
@@ -166,8 +166,8 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592855973,
-              "runtime": "1151 ms",
+              "syncedAt": 1787310231288,
+              "runtime": "1356 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
             }
@@ -183,8 +183,8 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592855973,
-              "runtime": "637 ms",
+              "syncedAt": 1787310231288,
+              "runtime": "623 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Invalid Tweets/"
             }
@@ -234,8 +234,8 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869330,
-              "runtime": "494 ms",
+              "syncedAt": 1787310231288,
+              "runtime": "587 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
             }
@@ -809,9 +809,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1787310231288,
               "runtime": "2 ms",
-              "memory": "44.2 MB",
+              "memory": "44.5 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
             }
           }
@@ -1218,9 +1218,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592922618,
-              "runtime": "10 ms",
-              "memory": "46.7 MB",
+              "syncedAt": 1787310231288,
+              "runtime": "359 ms",
+              "memory": "46.8 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
             }
           }
@@ -4906,10 +4906,106 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787235292700,
+              "syncedAt": 1787310231288,
               "runtime": "4 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome II/"
+            }
+          }
+        },
+        "palindromic-substrings": {
+          "questionId": "647",
+          "title": "Palindromic Substrings",
+          "titleSlug": "palindromic-substrings",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310231288,
+              "runtime": "5 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Two Pointers/Palindromic Substrings/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310231288,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
+            }
+          }
+        },
+        "max-points-on-a-line": {
+          "questionId": "149",
+          "title": "Max Points on a Line",
+          "titleSlug": "max-points-on-a-line",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310231288,
+              "runtime": "24 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Max Points on a Line/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310231288,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "non-overlapping-intervals": {
+          "questionId": "435",
+          "title": "Non-overlapping Intervals",
+          "titleSlug": "non-overlapping-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310231288,
+              "runtime": "53 ms",
+              "memory": "115.9 MB",
+              "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
             }
           }
         }
