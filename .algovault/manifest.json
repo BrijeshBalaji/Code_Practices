@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:03:51.288Z",
+  "lastUpdated": "2026-08-21T11:03:58.827Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -756,9 +756,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592893046,
+              "syncedAt": 1787310238827,
               "runtime": "0 ms",
-              "memory": "48.1 MB",
+              "memory": "48 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String/"
             }
           }
@@ -1162,9 +1162,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592908009,
+              "syncedAt": 1787310238827,
               "runtime": "0 ms",
-              "memory": "44.4 MB",
+              "memory": "46.8 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
             }
           }
@@ -1238,9 +1238,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592922618,
-              "runtime": "2 ms",
-              "memory": "62.2 MB",
+              "syncedAt": 1787310238827,
+              "runtime": "1 ms",
+              "memory": "69.2 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
             }
           }
@@ -3731,7 +3731,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786936951742,
+              "syncedAt": 1787310238827,
               "runtime": "2 ms",
               "memory": "52.6 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
@@ -4782,7 +4782,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786940036195,
+              "syncedAt": 1787310238827,
               "runtime": "3 ms",
               "memory": "52.3 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
@@ -4808,7 +4808,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786944737185,
+              "syncedAt": 1787310238827,
               "runtime": "2 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
@@ -4827,7 +4827,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787152384169,
+              "syncedAt": 1787310238827,
               "runtime": "54 ms",
               "memory": "70.3 MB",
               "githubPath": "LeetCode/Array/Fruit Into Baskets/"
@@ -4847,7 +4847,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787187780978,
+              "syncedAt": 1787310238827,
               "runtime": "48 ms",
               "memory": "50.2 MB",
               "githubPath": "LeetCode/Array/Subarrays with K Different Integers/"
@@ -4875,7 +4875,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787187678680,
+              "syncedAt": 1787310238827,
               "runtime": "32 ms",
               "memory": "152.4 MB",
               "githubPath": "LeetCode/Array/Sliding Window Maximum/"
@@ -5006,6 +5006,65 @@
               "runtime": "53 ms",
               "memory": "115.9 MB",
               "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
+            }
+          }
+        },
+        "sum-root-to-leaf-numbers": {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310238827,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
+            }
+          }
+        },
+        "path-sum": {
+          "questionId": "112",
+          "title": "Path Sum",
+          "titleSlug": "path-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310238827,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Tree/Path Sum/"
+            }
+          }
+        },
+        "minimum-depth-of-binary-tree": {
+          "questionId": "111",
+          "title": "Minimum Depth of Binary Tree",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310238827,
+              "runtime": "4 ms",
+              "memory": "82.3 MB",
+              "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
             }
           }
         }

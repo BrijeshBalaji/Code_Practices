@@ -14,12 +14,13 @@
  * }
  */
 class Solution {
-    public int maxDepth(TreeNode root) {
+    public boolean hasPathSum(TreeNode root, int targetSum) {
         if(root == null){
-            return 0;
+            return false;
         }
-        int left = maxDepth(root.left);
-        int right = maxDepth(root.right);
-        return 1+Math.max(left,right);
+        if(root.right==null&&root.left==null){
+            return root.val==targetSum;
+        }
+        return hasPathSum(root.left,targetSum-root.val)||hasPathSum(root.right,targetSum-root.val);
     }
 }
