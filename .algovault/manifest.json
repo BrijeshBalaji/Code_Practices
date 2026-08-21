@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:04:12.066Z",
+  "lastUpdated": "2026-08-21T11:04:19.145Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -200,7 +200,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869330,
+              "syncedAt": 1787310259143,
               "runtime": "403 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Article Views I/"
@@ -217,7 +217,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869330,
+              "syncedAt": 1787310259144,
               "runtime": "1325 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Students and Examinations/"
@@ -251,7 +251,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869330,
+              "syncedAt": 1787310259144,
               "runtime": "311 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Big Countries/"
@@ -268,7 +268,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869330,
+              "syncedAt": 1787310259144,
               "runtime": "638 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
@@ -285,7 +285,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869330,
+              "syncedAt": 1787310259144,
               "runtime": "394 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
@@ -302,7 +302,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869330,
+              "syncedAt": 1787310259144,
               "runtime": "510 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -319,7 +319,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869330,
+              "syncedAt": 1787310259144,
               "runtime": "619 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
@@ -338,7 +338,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592869331,
+              "syncedAt": 1787310259144,
               "runtime": "24 ms",
               "memory": "65.4 MB",
               "githubPath": "LeetCode/Array/Contiguous Array/"
@@ -355,7 +355,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869331,
+              "syncedAt": 1787310259144,
               "runtime": "281 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Triangle Judgement/"
@@ -372,7 +372,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869331,
+              "syncedAt": 1787310259144,
               "runtime": "633 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Duplicate Emails/"
@@ -389,7 +389,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869331,
+              "syncedAt": 1787310259144,
               "runtime": "309 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
@@ -406,7 +406,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869331,
+              "syncedAt": 1787310259145,
               "runtime": "826 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Game Play Analysis I/"
@@ -423,7 +423,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869331,
+              "syncedAt": 1787310259145,
               "runtime": "585 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Calculate Special Bonus/"
@@ -440,7 +440,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785592869331,
+              "syncedAt": 1787310259145,
               "runtime": "320 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Not Boring Movies/"
