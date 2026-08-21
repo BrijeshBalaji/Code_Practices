@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:05:43.911Z",
+  "lastUpdated": "2026-08-21T11:05:52.078Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3585,7 +3585,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593029789,
+              "syncedAt": 1787310352076,
               "runtime": "0 ms",
               "memory": "40.2 MB",
               "githubPath": "LeetCode/Math/Smallest Even Multiple/"
@@ -3603,7 +3603,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352076,
               "runtime": "1 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Decode XORed Array/"
@@ -3622,7 +3622,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352076,
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
@@ -3639,7 +3639,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352076,
               "runtime": "0 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/String/Defanging an IP Address/"
@@ -3657,7 +3657,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352076,
               "runtime": "2 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/String/Remove Outermost Parentheses/"
@@ -3675,7 +3675,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352076,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Only Letters/"
@@ -3695,7 +3695,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352076,
               "runtime": "14 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Array Partition/"
@@ -3714,7 +3714,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352076,
               "runtime": "11 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
@@ -3755,7 +3755,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352076,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
@@ -3774,7 +3774,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352076,
               "runtime": "26 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
@@ -3792,7 +3792,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352077,
               "runtime": "2 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Maximum Product Subarray/"
@@ -3813,7 +3813,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352077,
               "runtime": "3 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
@@ -3832,7 +3832,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352077,
               "runtime": "21 ms",
               "memory": "59.2 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
@@ -3850,7 +3850,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352077,
               "runtime": "6 ms",
               "memory": "57.3 MB",
               "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
@@ -3867,7 +3867,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352077,
               "runtime": "2 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Valid Mountain Array/"
@@ -3885,7 +3885,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785593042478,
+              "syncedAt": 1787310352078,
               "runtime": "3 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Maximum Number of Words Found in Sentences/"
