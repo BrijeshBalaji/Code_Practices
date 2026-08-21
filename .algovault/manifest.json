@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:04:50.385Z",
+  "lastUpdated": "2026-08-21T11:04:56.788Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1579,7 +1579,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296787,
               "runtime": "3 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Restore Finishing Order/"
@@ -1598,7 +1598,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296787,
               "runtime": "74 ms",
               "memory": "158 MB",
               "githubPath": "LeetCode/Array/Find All Lonely Numbers in the Array/"
@@ -1622,7 +1622,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296787,
               "runtime": "12 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Top K Frequent Words/"
@@ -1642,7 +1642,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296787,
               "runtime": "1 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Hash Table/First Letter to Appear Twice/"
@@ -1664,7 +1664,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296787,
               "runtime": "5 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
@@ -1682,7 +1682,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296788,
               "runtime": "0 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
@@ -1700,7 +1700,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296788,
               "runtime": "5 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
@@ -1719,7 +1719,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296788,
               "runtime": "0 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Search a 2D Matrix/"
@@ -1738,7 +1738,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296788,
               "runtime": "0 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/Rotate Image/"
@@ -1756,7 +1756,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296788,
               "runtime": "0 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Array/Toeplitz Matrix/"
@@ -1777,7 +1777,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592947701,
+              "syncedAt": 1787310296788,
               "runtime": "16 ms",
               "memory": "51.7 MB",
               "githubPath": "LeetCode/Array/Kth Smallest Element in a Sorted Matrix/"
