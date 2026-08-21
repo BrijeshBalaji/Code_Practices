@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:05:19.680Z",
+  "lastUpdated": "2026-08-21T11:05:27.657Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2655,7 +2655,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592984606,
+              "syncedAt": 1787310327654,
               "runtime": "0 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Math/Arranging Coins/"
@@ -2673,7 +2673,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999502,
+              "syncedAt": 1787310327654,
               "runtime": "1 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Array/Truncate Sentence/"
@@ -2693,7 +2693,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327654,
               "runtime": "4 ms",
               "memory": "58.1 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
@@ -2711,7 +2711,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "3 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Teemo Attacking/"
@@ -2728,7 +2728,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/String/Percentage of Letter in String/"
@@ -2745,7 +2745,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/String/Consecutive Characters/"
@@ -2763,7 +2763,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "4 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
@@ -2781,7 +2781,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "0 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
@@ -2802,7 +2802,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "38 ms",
               "memory": "56.8 MB",
               "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations I/"
@@ -2820,7 +2820,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "4 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/String/Robot Return to Origin/"
@@ -2838,7 +2838,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "10 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Two Pointers/Count Binary Substrings/"
@@ -2857,7 +2857,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Final Value of Variable After Performing Operations/"
@@ -2877,7 +2877,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "76 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/String/Lexicographically Smallest String After Applying Operations/"
@@ -2896,7 +2896,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327655,
               "runtime": "10 ms",
               "memory": "57.8 MB",
               "githubPath": "LeetCode/Array/Maximum Number of Distinct Elements After Operations/"
@@ -2916,7 +2916,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327656,
               "runtime": "2 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/String/Maximize the Number of Partitions After Operations/"
@@ -2936,7 +2936,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327656,
               "runtime": "5 ms",
               "memory": "57.8 MB",
               "githubPath": "LeetCode/Array/Smallest Missing Non-negative Integer After Operations/"
@@ -2954,7 +2954,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327657,
               "runtime": "14 ms",
               "memory": "88.7 MB",
               "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection II/"
@@ -2971,7 +2971,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327657,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection I/"
@@ -2988,7 +2988,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785592999503,
+              "syncedAt": 1787310327657,
               "runtime": "0 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Decompress Run-Length Encoded List/"
