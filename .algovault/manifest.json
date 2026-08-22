@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-22T08:49:39.223Z",
+  "lastUpdated": "2026-08-22T08:51:22.360Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5181,6 +5181,12 @@
               "syncedAt": 1787388579223,
               "runtime": "275 ms",
               "memory": "0B",
+              "githubPath": "LeetCode/Database/Average Time of Process per Machine/"
+            },
+            "sql": {
+              "syncedAt": 1787388682359,
+              "runtime": "66 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Database/Average Time of Process per Machine/"
             }
           }
