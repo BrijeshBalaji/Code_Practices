@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-22T08:22:25.356Z",
+  "lastUpdated": "2026-08-22T08:49:39.223Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5165,6 +5165,23 @@
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Tree/Invert Binary Tree/"
+            }
+          }
+        },
+        "average-time-of-process-per-machine": {
+          "questionId": "1661",
+          "title": "Average Time of Process per Machine",
+          "titleSlug": "average-time-of-process-per-machine",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787388579223,
+              "runtime": "275 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Average Time of Process per Machine/"
             }
           }
         }
