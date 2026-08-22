@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-22T09:09:48.486Z",
+  "lastUpdated": "2026-08-22T09:18:49.895Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5188,6 +5188,23 @@
               "runtime": "66 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Database/Average Time of Process per Machine/"
+            }
+          }
+        },
+        "employee-bonus": {
+          "questionId": "577",
+          "title": "Employee Bonus",
+          "titleSlug": "employee-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787390329895,
+              "runtime": "1141 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Employee Bonus/"
             }
           }
         }
